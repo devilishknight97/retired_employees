@@ -53,7 +53,7 @@ export default {
     fetchEmployees() {
       axios.get("/employees")
         .then((response) => {
-          console.log("Employee data:", response.data);
+         
           this.employees = response.data;
         })
         .catch((error) => {

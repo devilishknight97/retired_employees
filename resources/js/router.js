@@ -8,12 +8,12 @@ import EmployeeEdit from './components/EmployeeEdit.vue'; // To edit employees
 const routes = [
   {
     path: '/',
-    name: 'Retired Employees',
+    name: 'RetiredEmployees',
     component: Employees,
   },
   {
     path: '/employees',
-    name: 'Employees',
+    name: 'EmployeeList',
     component: EmployeesContainer,
   },
   {
@@ -23,7 +23,7 @@ const routes = [
   },
 
   {
-    name: 'Edit Employee',
+    name: 'EmployeeEdit',
     path: "/edit/:employee_number",
     component: EmployeeEdit
   }
