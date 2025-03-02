@@ -46,7 +46,7 @@
 </template>
 
 <script>
-import axios from 'axios';
+import axios from '@/axios.js';
 
 export default {
   data() {
@@ -69,7 +69,7 @@ export default {
           this.resetForm(); // ✅ This is now correctly placed inside the then() block
         })
         .catch(error => {
-          console.error("Error adding employee:", error);
+          console.error("Error adding employee:", error.response);
         });
     },
     resetForm() {
