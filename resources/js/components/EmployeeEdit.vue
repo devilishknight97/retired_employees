@@ -59,7 +59,7 @@
           .put(`/employees/${this.$route.params.employee_number}`, this.employee)
           .then(() => {
             alert("Employee updated successfully!");
-            this.$router.push("/employees");
+            this.$router.push("/app/employees");
           })
           .catch((error) => {
             console.error("Error updating employee:", error);

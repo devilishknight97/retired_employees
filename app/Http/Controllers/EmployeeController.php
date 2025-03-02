@@ -12,9 +12,9 @@ class EmployeeController extends Controller
     {
         \Log::info("Employees API Hit");
 
-        $employees = Employee::all();
-        
-        return response()->json($employees);
+        $employees = Employee::get();
+
+        return $employees;
     }
 
     // GET /api/employees/{employee_number} (Get single employee)
@@ -67,11 +67,7 @@ class EmployeeController extends Controller
     // DELETE /api/employees/{employee_number}
     public function destroy($employee_number)
     {
-        $employee = Employee::where('employee_number', $employee_number)->first();
-
-        if (!$employee) {
-            return response()->json(['message' => 'Employee not found'], 404);
-        }
+        $employee = Employee::where('employee_number', $employee_number)->firstOrFail();
 
         $employee->delete();
         return response()->json(['message' => 'Employee deleted successfully']);

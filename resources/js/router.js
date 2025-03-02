@@ -7,24 +7,24 @@ import EmployeeEdit from './components/EmployeeEdit.vue'; // To edit employees
 
 const routes = [
   {
-    path: '/',
+    path: '/app/',
     name: 'Retired Employees',
     component: Employees,
   },
   {
-    path: '/employees',
+    path: '/app/employees',
     name: 'Employees',
     component: EmployeesContainer,
   },
   {
-    path: '/add-employee',
+    path: '/app/add-employee',
     name: 'AddEmployee',
     component: EmployeeForm,
   },
 
   {
     name: 'Edit Employee',
-    path: "/edit/:employee_number",
+    path: "/app/edit/:employee_number",
     component: EmployeeEdit
   }
   
