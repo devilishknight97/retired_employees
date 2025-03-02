@@ -16,7 +16,7 @@
 
         <div class="mt-4 flex space-x-2">
           <router-link 
-            :to="'/edit/' + employee.employee_number" 
+            :to="'/app/edit/' + employee.employee_number" 
             class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700"
           >
             Edit
@@ -38,7 +38,7 @@
 </template>
 
 <script>
-import axios from "axios";
+import axios from '@/axios.js';
 
 export default {
   data() {
@@ -53,7 +53,7 @@ export default {
     fetchEmployees() {
       axios.get("/employees")
         .then((response) => {
-         
+          console.log("Employee data:", response);
           this.employees = response.data;
         })
         .catch((error) => {

@@ -2,10 +2,10 @@
 <template>
   <div class="container mx-auto p-8 text-center">
     <h1 class="text-4xl font-bold mb-8">Employee Management</h1>
-    <button @click="$router.push('/employees')" class="btn-primary mr-4">
+    <button @click="$router.push('/app/employees')" class="btn-primary mr-4">
       Employee List
     </button>
-    <button @click="$router.push('/add-employee')" class="btn-secondary">
+    <button @click="$router.push('/app/add-employee')" class="btn-secondary">
       Add Employee
     </button>
   </div>
