@@ -1,0 +1,2626 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.6
+Application-Name: Asprise Scanning
+Permissions: all-permissions
+Caller-Allowable-Codebase: *
+Codebase: *
+Build-Time: 2018-02-28T15:50:32+0800
+Created-By: www.asprise.com
+Main-Class: com.asprise.imaging.core.Imaging
+
+Name: com/asprise/imaging/scan/ib.class
+SHA-256-Digest: dXN5ti9GNk99lJg7AxiAUuw0zlZRz2Ie9BLYJ1zboq8=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ig.class
+SHA-256-Digest: 5EzEOYiwkcBjimr4WEDbykQHK9MuezjvNfmp81/ez2I=
+
+Name: com/asprise/imaging/scan/ui/workbench/ikd.class
+SHA-256-Digest: BNem1scK7Jd2fwVc43uXHJRI4/y5o04IeqSdwt8q/8k=
+
+Name: com/asprise/imaging/ui/image/editor/igb.class
+SHA-256-Digest: e8lTb+r/Y0Hn1HGcaidLxraMN/7LMLGlEQG3PgZLHFQ=
+
+Name: com/asprise/imaging/scan/ui/web/ikc.class
+SHA-256-Digest: VRNtioqR5shcmgiriZw4xtfw3uO6hE9M3zlCokOpn9k=
+
+Name: com/asprise/imaging/scan/ui/web/isc.class
+SHA-256-Digest: nr/BYuHK1WFLZ6wcIK8QnyxETYkpixpF509KpmFIJpM=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/iqb.class
+SHA-256-Digest: 84anOWZRr5dgPVtJw/nCBqJQcjLgPQ9arxVex58RIqM=
+
+Name: com/asprise/imaging/core/ResultImageItem.class
+SHA-256-Digest: zYuYR7hZfeaMu1Lh+dIQSGolqnw6uAMVZBmEIohIYWw=
+
+Name: editor/icons/Zoom16.gif
+SHA-256-Digest: +l+TDAqKv45EXR8GBE5atRwqWMQTOyO+Q2TVXZbSsuY=
+
+Name: com/asprise/imaging/ui/image/editor/iob.class
+SHA-256-Digest: dvVNllSEXvY9vES4BCfbd5fwn9vv81I+vgcVtIjSfXc=
+
+Name: com/fasterxml/jackson/core/util/DefaultPrettyPrinter$Indenter.cl
+ ass
+SHA-256-Digest: QGZm+bjY4lhuoUQqhXMunMJWcVjbeZ7dAJW4Im1ekSY=
+
+Name: com/fasterxml/jackson/jr/ob/impl/ClassKey.class
+SHA-256-Digest: WXupb6deTLGtqFntDlPpxHQuLcAfZoLTgHH9WHLt+bE=
+
+Name: aws_lic_mgt/slides/banner-a-1.png
+SHA-256-Digest: AgOCc3axnJ4oLHXjem95619z1KuG853F0buFfOpy3D0=
+
+Name: com/asprise/imaging/ii.class
+SHA-256-Digest: MEqJox1pfYq5aTW5KiTVln1wqjrM4tfoSmxvbXkY0+4=
+
+Name: com/asprise/imaging/ui/image/editor/iy.class
+SHA-256-Digest: NXQvbcTmuH52FYj/8S9gxreDVt15wC7bbcQ5Wd10Y9w=
+
+Name: net/java/balloontip/styles/IsometricBalloonStyle.class
+SHA-256-Digest: V9+VevWI61GVDvmj5iPMvkWVEIA+eT52j9ALhXUPW88=
+
+Name: com/fasterxml/jackson/core/SerializableString.class
+SHA-256-Digest: IdnERDHG6WO1VDqRaVXhfo26BUnt+VMDSMqqzsy9lmM=
+
+Name: com/asprise/imaging/scan/ui/workbench/in.class
+SHA-256-Digest: k6p8CPlaUkk9KY4dfK3EiJJqoyzfjsZiYGuIfQGR7e8=
+
+Name: com/asprise/imaging/ui/image/editor/iwb.class
+SHA-256-Digest: QRSol3/unShWczt94hWNAixu2iQjDL0Jh+N6cLBmn0I=
+
+Name: com/fasterxml/jackson/core/sym/NameN.class
+SHA-256-Digest: y084Cq6KvHXLN9JzNDxMT7gXopKa09W9xB0A1fxih0k=
+
+Name: com/sun/media/jai/codecimpl/TIFFFaxEncoder.class
+SHA-256-Digest: salgPsIAYSdIKOlk5UWJUKYD3YYmDtoOQEp6ExnaQ2Q=
+
+Name: com/asprise/imaging/scan/ui/web/icc.class
+SHA-256-Digest: tkBaXjFBjYLTcSCmpuehTFYbp0GVuhdE/4Z0m92uW3M=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/iib.class
+SHA-256-Digest: KiqeQbiQE//YGBvPkDfI+sPQBjsGS10XJrthU2yri/U=
+
+Name: com/asprise/imaging/ui/image/editor/BrowserLaunch.class
+SHA-256-Digest: XXwGP4DBp1lTlP8cVeD1BRqjwngFMA8smul/Zdo1QrI=
+
+Name: editor/icons/Save16.gif
+SHA-256-Digest: 9E8CRBDwI6ZB93k5olx9iy2s0mcStUsr9U7TIr0sFWk=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/iab.class
+SHA-256-Digest: AXYaEFMPZhvxT0aIS8Uexhu9Vxp5KarydXJ4n7gDf3U=
+
+Name: aws_lic_mgt/user-ok-24.png
+SHA-256-Digest: Vt/cSjJ51Okd+L/re3cymGVTgrkHIEExA1t0CW8A1k8=
+
+Name: com/fasterxml/jackson/core/sym/Name1.class
+SHA-256-Digest: WCgA1PfdE2e+eMCn6H3MB9DjkiJy5lJ7tqm5BRNFiKA=
+
+Name: editor/icons/Scan16.png
+SHA-256-Digest: LYr3ROvRMsOWTNXPEwwAQasHD7vlMDD2hP4gph0nN5E=
+
+Name: com/asprise/imaging/scan/ig.class
+SHA-256-Digest: N4fe/jRIvm9gUTsU5Hm7+uonRChL29hfuqoLZQhNhew=
+
+Name: com/asprise/imaging/scan/ui/web/iab.class
+SHA-256-Digest: FSwNXgpaOappWcY+08LrEip2204yq8qD66cvX/Ve7Kk=
+
+Name: com/asprise/imaging/scan/ui/workbench/iue.class
+SHA-256-Digest: 5Sp4SACMFnBFiMxu5fKRazXCrvj7zYQWcgIbGrudEaA=
+
+Name: net/java/balloontip/BalloonTip$4.class
+SHA-256-Digest: HGoICmEm2dGUuorF8nLC9iCN3DoW04Q7and9G/k+Bhk=
+
+Name: com/asprise/imaging/scan/ui/util/iy.class
+SHA-256-Digest: JxcnMzKG6AtBUuqRRQVqaFUUxsV0SLqLgJwO7p7+jGQ=
+
+Name: com/fasterxml/jackson/jr/type/TypeBindings.class
+SHA-256-Digest: ZEH586RaLHggR7o9eML+oCRtaIXgDkTB3HG/MYy1Nes=
+
+Name: com/fasterxml/jackson/jr/ob/impl/MapBuilder$Default.class
+SHA-256-Digest: oK9d6vfmwTCYftKQUlZHzk9l7x1hkCZnkLAS74M9UQc=
+
+Name: com/fasterxml/jackson/core/format/DataFormatMatcher.class
+SHA-256-Digest: RSoexc/AmSuh9gys8yw/OQMdzppmHJD6OFMVOfhN+H8=
+
+Name: com/fasterxml/jackson/core/io/JsonStringEncoder.class
+SHA-256-Digest: ms33wYNrMcQ/QHzvwx/daOeyOu2VYRHXj8pB13IUOsI=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/il.class
+SHA-256-Digest: mMJgbNYt2iwTX8EIoqAb5Rc+5GOETHuqVHLUsX/hocU=
+
+Name: asprise/page-holder.png
+SHA-256-Digest: cS7Q7iwO4PlxP4wTCvXnMwgyd+mBX4b4CL4r+m8PuAw=
+
+Name: com/fasterxml/jackson/core/JsonPointer.class
+SHA-256-Digest: 9nn8rJgBotKDWluGDLrbVPYf1UwKyKCH3xC2loZX4T8=
+
+Name: com/asprise/imaging/scan/ui/workbench/iic.class
+SHA-256-Digest: ssLm7inahlGo9/kB2mDu2cYTceZU66NzovCGwhMtX+Y=
+
+Name: com/asprise/imaging/scan/ui/workbench/iac.class
+SHA-256-Digest: UxhFt528pyAVM5tOWZfca6xs0ZZwtv44MYAF4qflTz8=
+
+Name: asprise/pdf-16.png
+SHA-256-Digest: J51EHHniyi2cv9kDMxxUwr/wtJEZ0KoMJnKh5AWSYwg=
+
+Name: com/asprise/imaging/scan/ui/web/iqb.class
+SHA-256-Digest: ueBTsns6ZfM7MSDS8A4S99k0cSgghZGuw9D3dTPAxoY=
+
+Name: com/asprise/imaging/scan/ui/workbench/ii.class
+SHA-256-Digest: dgt2nVzQmr+g9WaJ7YyQsvWewCwq7Il2TJ2DZqkzpsg=
+
+Name: com/asprise/imaging/scan/ui/workbench/idb.class
+SHA-256-Digest: 0fFHn72UoNq36AW9G5W/52Mvc8uTqBLs8mqTNmbbeKE=
+
+Name: net/java/balloontip/BalloonTip$Orientation.class
+SHA-256-Digest: 5Uiof0Y/kQqQ2y8TCYv+GAIJ+pLTUD637OI39vZLDRc=
+
+Name: com/asprise/imaging/scan/ui/web/ix.class
+SHA-256-Digest: jMGEpkGGKhaeIyeRMgb4+uV9Sq9EYq59Bca5cTcuu6k=
+
+Name: com/asprise/imaging/id.class
+SHA-256-Digest: 5/4lJ6swKtxNGTAzho/ZMZ69hEgW1iqK5AAtDrG+Iz4=
+
+Name: com/sun/media/jai/codec/ImageDecodeParam.class
+SHA-256-Digest: BM+PXSVCCUUFGvmELnIRVGbGbHpcUN4MozGb268AHJE=
+
+Name: aws_lic_mgt/user-ok-16.png
+SHA-256-Digest: z66PGkLocZ9sC36e22LfoeP6cu6pJoWwrpghxUE642g=
+
+Name: com/asprise/imaging/ui/image/editor/it.class
+SHA-256-Digest: MkKxAwvHR/frLIggxZIGvPS9m5DZbptct9PVC8HS39M=
+
+Name: com/fasterxml/jackson/core/json/JsonReadContext.class
+SHA-256-Digest: gVt7jr4NqqEX8Ff3iCpdkYu2QvoOkprFtReaXf2iUeI=
+
+Name: com/asprise/imaging/scan/ui/web/iib.class
+SHA-256-Digest: YQ51GR1R2Wq3lnPPDK6QbZWuLJkcwrjf4TH4JIeQ030=
+
+Name: com/asprise/imaging/scan/ui/workbench/ilb.class
+SHA-256-Digest: uWUIBrhQTJijY/Fov6u5TlTmftysWx0D67VkaRGdRXg=
+
+Name: com/asprise/imaging/scan/ui/web/iyb.class
+SHA-256-Digest: wzBt+oA/Dpf7RUcd93U8U0h+qR4Rxzmmyd6TxU9M3II=
+
+Name: editor/icons/FitWindow16.gif
+SHA-256-Digest: 03thZ5gXuUbVzj3d+tjsdc4iaOLnUO5q8Mh/K0QtT/w=
+
+Name: com/asprise/imaging/scan/ui/workbench/itb.class
+SHA-256-Digest: rmB5p+akleUb8ggTs0PRcryihRi6Nq7DOonfUUPChrk=
+
+Name: com/sun/media/jai/codecimpl/util/ComponentSampleModelJAI.class
+SHA-256-Digest: bg5AkqGTjmRhvPCi9r02MSOshzIxTI/mNr6lNrM+8xg=
+
+Name: com/asprise/imaging/scan/ui/util/imb.class
+SHA-256-Digest: xDfZ6LjfwURAheNZew/Xk6uqFbaKNIMiTdiGSB7wbC8=
+
+Name: com/asprise/imaging/ui/image/ia.class
+SHA-256-Digest: 9XmG7IqIRMyVNOzYwrV/RlTn5VZJIGe43wUP0rN0PfE=
+
+Name: com/sun/media/jai/codec/TempFileCleanupThread.class
+SHA-256-Digest: 9OXPC8ptxGA0ruxzddnXXMcajPgFoicLLabH9LFUJeE=
+
+Name: editor/icons/Forward16.gif
+SHA-256-Digest: IBnvoM7I7pB33eEFMR0HPStGix/NzfvMy8+gnWkubIQ=
+
+Name: com/asprise/imaging/scan/ui/util/ieb.class
+SHA-256-Digest: 3hQti3gWX436rNeNbV0uXiJ2hv4599E3tr+3Bl2OfVc=
+
+Name: net/java/balloontip/BalloonTip$9.class
+SHA-256-Digest: BNjxBT7o51HqSUzJcLu+Go0PNXERyplFEgv56k4rCcU=
+
+Name: editor/icons/Server16.png
+SHA-256-Digest: J2YOjU24+rRfHKCtLp5kVjBjmwViFIss867MhcXEAjo=
+
+Name: com/fasterxml/jackson/core/JsonParser.class
+SHA-256-Digest: FyElYbu6R9bQfBjiNPggpANJreYDBP9B0PZ6afIWXxs=
+
+Name: com/asprise/imaging/core/scan/twain/TwainNative.class
+SHA-256-Digest: v6g4D95Ur7Lu7uzlELpuYaPSK5MZwsSL8VPa9DTBOGc=
+
+Name: com/asprise/imaging/ui/image/editor/ia.class
+SHA-256-Digest: mf567fdNYOyDBgxwwbmX7DwUioJl4v1+o2NGnLnRRuM=
+
+Name: net/java/balloontip/utils/ToolTipUtils.class
+SHA-256-Digest: Sk5TcKKNhs0NtepASuAiVPlDwDnFoqPCUwFGlW/gN+I=
+
+Name: com/asprise/imaging/ui/image/editor/io.class
+SHA-256-Digest: 4NA1j6ZZLcAxHqeTaKnnOogfZSmnJErYPAqDzbLyuCU=
+
+Name: asprise/32.png
+SHA-256-Digest: PqTrYeUV9cFR+ttCleD3TLRC8ur1gYpxzzRkaf4yVkk=
+
+Name: editor/icons/Back16.png
+SHA-256-Digest: +EN14UPw8nt976OyOrkpnAS+j2qOQrLiamxecLNhWXw=
+
+Name: asprise/16.png
+SHA-256-Digest: YJWUTkKapdbzSIXhLZ3zn6pYlC6F7ET68AE2ZFtFomU=
+
+Name: com/asprise/imaging/core/prefs/Base64.class
+SHA-256-Digest: 8oz6CrAgIu3CaaC6POIJsXzC7qSyBK2tWA56xbzWDms=
+
+Name: com/asprise/imaging/scan/ui/web/ivb.class
+SHA-256-Digest: ftLz0SpmFprJQR9Zz/bVlnUSYIM/pbH9V4cYNYBh18o=
+
+Name: com/fasterxml/jackson/core/base/ParserBase.class
+SHA-256-Digest: PdVJRIBH/+zq8RAYDr0Q4TzbJrzzfJ1xNOxG0+cawwE=
+
+Name: editor/icons/Color16.gif
+SHA-256-Digest: +UOnI0lYOWlfkbL7PhY+E8VEW24kTfTTtMPzY6q8xkU=
+
+Name: com/asprise/imaging/scan/ui/web/inb.class
+SHA-256-Digest: ukgMLNPD5nWkTS4suzkBUGfdbr7CGT+4o0W7K3tipso=
+
+Name: com/asprise/imaging/scan/ui/workbench/id.class
+SHA-256-Digest: B9AvdUb/pqZFGHEIpBfSiGY8f5XTr/mGXjs8tltqHtg=
+
+Name: com/asprise/imaging/scan/ui/workbench/igb.class
+SHA-256-Digest: TmtHnWd8xVGpd1m2y/PIHgbtfP0CRdYcVsXoXOhqLB0=
+
+Name: com/asprise/imaging/scan/ui/web/ifb.class
+SHA-256-Digest: 0TMmkmo2qUIFPdHHOE8hDUlb9alI+Gg3w3uFDDlT+5k=
+
+Name: com/asprise/imaging/scan/ui/workbench/iob.class
+SHA-256-Digest: SVcJhq1Avr3XjGVdQ8LU8DZay4NL7g/ad6aSfv475aw=
+
+Name: aws_lic_mgt/web-warn-24.png
+SHA-256-Digest: hMlZSocjAgDqkwYxF9yIpeL+0W1bARtlf0CJ3qgARE0=
+
+Name: default-mimetypes.properties
+SHA-256-Digest: 994wMImc3C91LzgZzS1nu4hUpIp4aAWdrbh37TmK1l4=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$9.class
+SHA-256-Digest: 6JCFtauKcu95ESHgrIXgIuqmWpH7g7ecMAELH8U1+5w=
+
+Name: com/asprise/imaging/core/Result.class
+SHA-256-Digest: tfVXFQn++aX8xf86BYo4Jo4Fjg4xRA/qs0Vacuec/Po=
+
+Name: com/sun/media/jai/codec/PNMEncodeParam.class
+SHA-256-Digest: cilBC4CXyUoLRB6DmLk1PMTCtw0q3i6DFKGUnRs/Sek=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/iv.class
+SHA-256-Digest: RTS2WEs6nfYO5dK44LghN0J3t3E9dvUqCVwywSypaME=
+
+Name: com/asprise/imaging/scan/ui/util/io.class
+SHA-256-Digest: EoEc9Evb0xOXjcII64UFba2z8kvCTK6EWBWaihAslhs=
+
+Name: com/sun/media/jai/codec/com.sun.media.jai.codecimpl.properties
+SHA-256-Digest: Ka0/Y8veaUKTCu2rKxr+1+HtGVEJ7MrJGMX42eixrRc=
+
+Name: com/fasterxml/jackson/core/util/DefaultPrettyPrinter$Lf2SpacesIn
+ denter.class
+SHA-256-Digest: 9bkE0wk+bXsr0Bfe1BY/OAWZpB/XkkDylnWrMYjfMVw=
+
+Name: com/asprise/imaging/scan/ui/web/in.class
+SHA-256-Digest: FAEc5RCGDWctGda2OG9bFqYCcRmN9WN662x7WJQOwQE=
+
+Name: asprise/eval-mesg.png
+SHA-256-Digest: LQtggva5LNbzwMOKR960dM2UF4TDzFh7sdhyIZMMgq8=
+
+Name: com/fasterxml/jackson/core/io/OutputDecorator.class
+SHA-256-Digest: toPxXJ6+VLQTyZySilA+kFOJfmjygdT7xaKeXd9NcFg=
+
+Name: com/sun/media/jai/codec/MemoryCacheSeekableStream.class
+SHA-256-Digest: 91eYsKAPPWhzNBr5gP4fG53BgelaPGeV1kTXFZs1KX0=
+
+Name: com/asprise/imaging/scan/ui/web/ixc.class
+SHA-256-Digest: BpTds0k6C5KqSe8iNdBp28RpZv1fy2qptwwueYQ6Pcg=
+
+Name: net/java/balloontip/TreeNodeBalloonTip$2.class
+SHA-256-Digest: iMIT/dZ/lOANU+YKyIr1F7P6ujehrSmUrr7/gWSNt+Y=
+
+Name: com/fasterxml/jackson/core/util/JsonParserSequence.class
+SHA-256-Digest: 49c6R4xASq6s4xQMq9wimNXPp3Pxjfm8NiuT6KZNKBQ=
+
+Name: asprise/scanner/32.png
+SHA-256-Digest: at4eSe7+hHE5M0UIcCAeFA53FngJvKAT9UdVg/S8rYw=
+
+Name: net/java/balloontip/BalloonTip$NestedViewportListener.class
+SHA-256-Digest: TUMIIRl/kpe8OYiUjNXsDOGh6bWs2vuuCvKVSHGMSjY=
+
+Name: asprise/attach-16.png
+SHA-256-Digest: CzZqJLakXgSlqaAMOSHSUoFxKjEz7QLyJ216kMBUjKA=
+
+Name: com/asprise/imaging/scan/ui/workbench/is.class
+SHA-256-Digest: lx3xsoiIQP1WKY8iCC5cPHpw/WUvsNrwoHBBGoK68QI=
+
+Name: com/fasterxml/jackson/core/io/CharacterEscapes.class
+SHA-256-Digest: KJgE8xjmTdjc2hTWpVT6IXeLGcgG+mjpmjgvpmpJzko=
+
+Name: editor/icons/Use16.png
+SHA-256-Digest: DkPHAE+gwdTX4C1ZZsCJKBIPF1ftWPgMfjHEqoPt37M=
+
+Name: com/asprise/imaging/scan/ui/util/ia.class
+SHA-256-Digest: OnfE3twiaQwLWkLSC6aTV1nOkDvkfmBmWwu6o0rvsN8=
+
+Name: editor/icons/Scale16.png
+SHA-256-Digest: xIowbhgdzL3TFNOpnzNEQKSddsUK8hpdtIoUvB/X/C0=
+
+Name: com/asprise/imaging/scan/ui/web/inc.class
+SHA-256-Digest: x51aeubCS+logHCKsoIt4xtVMasgFlhx3ZpVyF00a08=
+
+Name: com/asprise/imaging/scan/ui/web/ipc.class
+SHA-256-Digest: 5Utov7+yRR2cHJwvTlykQArGHp0XDO4FwaT00SSD0JI=
+
+Name: net/java/balloontip/images/close_default.png
+SHA-256-Digest: Bpm3uJN4aYNVfhp3juffPvd6fOk8ztwSTkoEp4d5ik4=
+
+Name: com/fasterxml/jackson/core/format/package-info.class
+SHA-256-Digest: xBdy0sb6VlNekc5C49jMpIY1TY4K/elFeVoibZQ62hg=
+
+Name: com/asprise/imaging/core/util/system/Utils.class
+SHA-256-Digest: liFPnSxKJBEt92apQjIBSaAhdki+OXKmfAX/gxv95ro=
+
+Name: com/asprise/imaging/scan/ui/workbench/ind.class
+SHA-256-Digest: 3VyGVdKnBQ4JXgmBcAIljd00fMjVzgXCioaLblOoUn4=
+
+Name: com/asprise/imaging/ui/image/editor/ilb.class
+SHA-256-Digest: U6IR+9UCjTBp1pr+vqKzXfcXfJ55ZoF92R8g4/Fbrn0=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$4.class
+SHA-256-Digest: 26aAdAG4qQaHZIodfldSwPPqqTRqWQfkJlE6J+13geM=
+
+Name: com/asprise/imaging/scan/ui/web/io.class
+SHA-256-Digest: mB1WfcBviKVUDtjHa1uG186+xHOkVRUjHpk5HeC+opo=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/itb.class
+SHA-256-Digest: Lp4mIEOZXb3dq9xnouAsUFQKeZWoQvh5Vbtme41jINM=
+
+Name: com/sun/media/jai/codecimpl/BMPImage.class
+SHA-256-Digest: Qqsgsl4wFgmrFvHgTEmstpAPqLKAoZE8sHvdU4HRvrk=
+
+Name: asprise/jpg-16.png
+SHA-256-Digest: ITqMHkXIr86VWvAceUJV1ZIaSlN3ZQ0kHd9W8JynmBM=
+
+Name: com/fasterxml/jackson/core/util/JsonGeneratorDelegate.class
+SHA-256-Digest: jfT+6aYF9jG4T6PaTxa61Q+GsvoS1605zst7bxK96OI=
+
+Name: net/java/balloontip/images/close_pressed.png
+SHA-256-Digest: hntqPvLpWSxOBdJ5c92guyR2y2n5a+TyIpQoAVqO1/M=
+
+Name: com/sun/media/jai/codec/ByteArraySeekableStream.class
+SHA-256-Digest: mr9/2rGMKF1uEoVURFg0zEm7tGP4vONvA/f9K+A71Mo=
+
+Name: com/asprise/imaging/ui/image/editor/ibb.class
+SHA-256-Digest: oHvLy6BwjdMznmRG5UDvpAGCn7otRuWcO9w0nViDIw0=
+
+Name: com/asprise/imaging/scan/ui/workbench/ie.class
+SHA-256-Digest: ixUPXtTFs9H+pwrziYB9cabc16aLW2sjWQyrAnpi4cc=
+
+Name: com/asprise/imaging/ui/image/editor/irb.class
+SHA-256-Digest: vzBPEkM3/myfksr3UgcO10IZanUPqJ+mVS0P84+Dl2E=
+
+Name: net/java/balloontip/positioners/BalloonTipPositioner$1.class
+SHA-256-Digest: lMkx58HaQotNfch7tFdrNVHQCsHLR9jLEfLsr3FBBeM=
+
+Name: com/sun/media/jai/codecimpl/BMPCodec.class
+SHA-256-Digest: z9WYEAYIzb5YxmEGPpGeYI52e3OvzthZTliIABIgLuY=
+
+Name: com/asprise/imaging/scan/ui/util/ij.class
+SHA-256-Digest: gmVEZo4G88QDHLv0RKEvSsvwJHFEYNOvaxhmTQhm0RE=
+
+Name: com/asprise/imaging/core/scan/twain/PaperSize.class
+SHA-256-Digest: Gm6nY00eFuNjyPN1HTjRM1oVwFKojWFxQRmmPGcXGnc=
+
+Name: com/asprise/imaging/scan/ui/workbench/ixd.class
+SHA-256-Digest: VUuvEtsZrGfmWDYta8tViKbxdXgMg8/LQm/B9cj6ZIQ=
+
+Name: com/fasterxml/jackson/core/util/MinimalPrettyPrinter.class
+SHA-256-Digest: 8y0jecrSCtDlo8pwcC7p5rLUoQGVjpRO78HesvLhyLs=
+
+Name: com/asprise/imaging/ui/image/editor/ik.class
+SHA-256-Digest: 83j5VGXOnJKr6L2Pn1CEfQEBapamZ+EDg49eRgpo1Jk=
+
+Name: com/asprise/imaging/scan/ui/workbench/iyb.class
+SHA-256-Digest: GtYN0BlTPrYZZoP5J2J/oMcFFNnJeL4iOFrPHDE+fiU=
+
+Name: com/asprise/imaging/scan/ui/workbench/ihd.class
+SHA-256-Digest: cjkXH/vybYBfXf/y7ibPvV8XQ+LjSZjWbGR5smAdoSQ=
+
+Name: com/asprise/imaging/ui/image/editor/ie.class
+SHA-256-Digest: m7H6hqYkp1KnwlhneucI2TODGrCTr9DcHk7ZGFsQJKQ=
+
+Name: asprise/logo/64.png
+SHA-256-Digest: YmxR4tO7br9s4ZsdsFpYPbYf7PTI/fW/8RnzwytLLPE=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/iu.class
+SHA-256-Digest: e7V4KCiUFSGtsOZ/Ep9kADVSmglTtTOlH50ebKXdZbI=
+
+Name: com/asprise/imaging/scan/ui/util/ik.class
+SHA-256-Digest: wJb0K5zj3AbBucvXImODaNGUAjZykYf7kzWo8WeSwC8=
+
+Name: net/java/balloontip/positioners/CenteredPositioner.class
+SHA-256-Digest: WeMdQyNkseA/r1KCNSHONtJYr5tS4xyYYWkJsOcgO0M=
+
+Name: asprise/edit-16.png
+SHA-256-Digest: GgXJmpC37dEoQOqDlOgWx2GBuRe2YhvcxyHCYD3hrJ8=
+
+Name: com/sun/media/jai/codecimpl/TIFFImageEncoder.class
+SHA-256-Digest: KcdvL28c8ceBJBqrDxvFhf9ZtORj5SeIt3XlEevxZqQ=
+
+Name: com/fasterxml/jackson/jr/ob/impl/EnumReader.class
+SHA-256-Digest: JtL58tR8VVSIw38O0kHtNfT26FpZDkBf82XPTpvvNYQ=
+
+Name: com/asprise/imaging/scan/ui/workbench/iw.class
+SHA-256-Digest: VStHfXZ/1QZfhqHRrQfA54Tf1FSQUWkht/dOc01Xico=
+
+Name: com/asprise/imaging/scan/ui/workbench/idc.class
+SHA-256-Digest: /aQmRHJph38z5pYiTVZqioD7K/vrnOOLQ3vELkq4ISE=
+
+Name: com/asprise/imaging/core/util/CalledInNativeCode.class
+SHA-256-Digest: 1E0U4WCHGoqmxrlmpQmIPY2bsfem1Svp+rD5YwOv7LI=
+
+Name: com/asprise/imaging/scan/ui/util/ie.class
+SHA-256-Digest: wTgyY0Pl//wc554l4dvShZ3f94ixojlWmhqZRlyJN9s=
+
+Name: editor/icons/ZoomIn16.png
+SHA-256-Digest: OZLGZT+tmbh+SCVp7F4+Q2Nc0SdfzQolhHjK4/lfnRQ=
+
+Name: asprise/fix-16.png
+SHA-256-Digest: uNF4WgAbovbTot28BOtL+W2uZ2xhfPst2v+vdd/ywak=
+
+Name: asprise/scanner/16.png
+SHA-256-Digest: DmRxY/lwADrrZjfQHKkwKF2/eeRPdi83YLg+1yzYYTA=
+
+Name: com/asprise/imaging/core/util/TranslationProps.class
+SHA-256-Digest: Dc1MNZxOY+aPbj5ej/P8a3jm8JWRquU/M6lk/kELZJg=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/inb.class
+SHA-256-Digest: JFUOw7MVa9szl3rL9Vwul/7lp6FqrE1BfYpoZLpalvU=
+
+Name: com/asprise/imaging/scan/ui/workbench/ire.class
+SHA-256-Digest: ROsOAo+GAAOarlbYXIhIFZxuj5fxUe7yyikgkI4gcnc=
+
+Name: asprise/inline-20.png
+SHA-256-Digest: xrrn3sx4xMumPot3T8OcOS3GRPkM9AK1sSlkwilgzCM=
+
+Name: asprise/demo/bw/info-20.png
+SHA-256-Digest: fAjPEIGHI5tNXV+rypXY6JKgX13RXntP1DmT/D/TS4I=
+
+Name: com/fasterxml/jackson/core/json/WriterBasedJsonGenerator.class
+SHA-256-Digest: m37gtszA9UGBFzZiWTQRWRT5lJGX1f3zjmpeWWCaD7w=
+
+Name: com/sun/media/jai/codecimpl/util/PropertyUtil.class
+SHA-256-Digest: S3QrvU0rhhckeyxqEW0B4J0OBGFo6zYAcOW0eXtxfOM=
+
+Name: asprise/refresh-24.png
+SHA-256-Digest: p7xpKf0YoAcYigh0Rd+Fk5qqx0q2Spqhopbivr22S+0=
+
+Name: aws_lic_mgt/slides/banner-a-3.png
+SHA-256-Digest: urjn3YCObneimokZvmJGq/LIUMAAh0g1yMN0UjkFPfs=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$Change.clas
+ s
+SHA-256-Digest: 4XdvD7TL0TRN3HDFA6KmDb+TdXImLd+RbViai+FtjLE=
+
+Name: com/fasterxml/jackson/core/io/InputDecorator.class
+SHA-256-Digest: tSj/RWoUxzXDYwa0LgPe8UPaFe7sT7vSD1MIlGeBXA4=
+
+Name: binfo
+SHA-256-Digest: l4hLUe1fCaDoo57XPufhrx4h0tNHSlFu57/DK6eOf9A=
+
+Name: aws_lic_mgt/slides/banner-a-2.png
+SHA-256-Digest: yZwbLhO+Rt56mHnMAe1IhNZVkvDpb43Y0tw5l5YEtsM=
+
+Name: com/fasterxml/jackson/core/format/DataFormatDetector.class
+SHA-256-Digest: qvyK3+rTr2WWFBf/QQ350Y9Q8++upJoe0MqfP4Ltj0s=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/iq.class
+SHA-256-Digest: hXbpQHF02B95lUTznFMQdX9rxDfT5nAGRkEf8L68JC0=
+
+Name: com/asprise/imaging/scan/ui/util/icb.class
+SHA-256-Digest: 2NzHM+NmPplTxWxRywyje+IufR28c91ekwRlgVejTyc=
+
+Name: com/sun/media/jai/codec/TIFFDirectory.class
+SHA-256-Digest: B0KmPATxH4ECT0jItRqXlJEYCsVw76NSwo1W17SZkKE=
+
+Name: editor/icons/Crop16.png
+SHA-256-Digest: WwAF1SLybmzAOwGSS2D2IzPNyXlRZ8mVQIA5M+R6AWs=
+
+Name: com/asprise/imaging/scan/ui/util/ihb.class
+SHA-256-Digest: XwXdURsrgkcZCuw34BjmnjdlnTCaTkBSIoThs9im+uY=
+
+Name: com/asprise/imaging/core/RequestOutputItem$UploadSetting.class
+SHA-256-Digest: Puf9Puh5Dd+F68Ik3yuGk2WFE+bT/eo1PLPvZ2pGnB0=
+
+Name: com/asprise/imaging/scan/ui/workbench/iyc.class
+SHA-256-Digest: G4Zd72jR7wlbLGjpr6i3DPLEziYsKM0t/XoYiAuVCuA=
+
+Name: com/asprise/imaging/scan/ui/workbench/isc.class
+SHA-256-Digest: RjswXiDygpmDTXmsXMywmPZFzkp7OF4xSlnPGveDFGM=
+
+Name: editor/icons/Cancel16.gif
+SHA-256-Digest: vIbRn0zvi2gMhKjC3BFJqNTINfAQ8jhLV9LUMGKnvy8=
+
+Name: com/fasterxml/jackson/core/base/ParserMinimalBase.class
+SHA-256-Digest: QuvcdPR5K5b6YU15BuRufkaC+/1uNRptN3ncHQ5b4bo=
+
+Name: com/asprise/imaging/scan/ui/web/is.class
+SHA-256-Digest: ANC8ADcXT6uI5cP0UUlARn+H+r+xuUAC9PDBusMubNA=
+
+Name: com/sun/media/jai/codec/PNGEncodeParam$RGB.class
+SHA-256-Digest: RmwKFWO4Tek+0z9hwqeDGBnhemw0us5K0HceTeXFDKY=
+
+Name: com/asprise/imaging/scan/ui/workbench/inc.class
+SHA-256-Digest: i78ba6CqtB+m1NgtaLN6VW29TIROMrmM8+ozTIOIcXg=
+
+Name: com/sun/media/jai/codecimpl/fpx/FPXUtils.class
+SHA-256-Digest: CwdXgT/8VfC9uzur+abCIDAx8W+X1M1hveb0ZmIy3Jg=
+
+Name: com/asprise/imaging/scan/ui/web/itb.class
+SHA-256-Digest: S3blxAv61CJzcP/lk7429grqsX9XMjCYHGmahmWec7s=
+
+Name: editor/icons/Flip16.png
+SHA-256-Digest: O26YykdWZ3QnG6m7+YpgJaE8zSZ+IfQxmuwFF5LANdk=
+
+Name: asprise/refresh-16.png
+SHA-256-Digest: c8OuxxBvigdR1cvTzA+f0AcLEM2NR4gVpVP+Kswy99M=
+
+Name: com/asprise/imaging/scan/ui/workbench/ime.class
+SHA-256-Digest: zbEQD8AoLK7/Uv4uX0SVIuIisYPCzXsyVMSfW3ONeao=
+
+Name: com/asprise/imaging/scan/ui/workbench/ice.class
+SHA-256-Digest: rXZ9pEzL6pBMGPVG51oTfIMpjz2IemTyHtFaeszZCrc=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$5.class
+SHA-256-Digest: 7QV+LuAn8iqqsiUJEBZPGnJtsBM3TUt9sNCGyFsyvvM=
+
+Name: com/asprise/imaging/scan/ui/workbench/ix.class
+SHA-256-Digest: cPukgyusA35d8w760/pbXey8tUp/+bSsi9gOV//d8K4=
+
+Name: com/asprise/imaging/scan/ui/workbench/iib.class
+SHA-256-Digest: Ujw4rIfmXbXWCy1rWmocT3jUYUzz71rm1lDpVC89Pu8=
+
+Name: code-samples.properties
+SHA-256-Digest: coduub2CkNyAOcorfuGW1XZMjqtnMVfKtGLBJbvpRlo=
+
+Name: com/asprise/imaging/scan/ui/workbench/ScannerSelectUI.class
+SHA-256-Digest: xjkflwXgWwJjGxD/RPYQLH6cclxS0WGaSGO0H71NPbQ=
+
+Name: com/asprise/imaging/ui/image/editor/ifc.class
+SHA-256-Digest: yyc0Y3MI/1wlLo0SsISDlkYThvlwjcNsiDhBeQhp2VU=
+
+Name: com/asprise/imaging/ui/image/editor/ilc.class
+SHA-256-Digest: 0Zp6hovW4cNGe1/yJzJueoDOwMRJ6g7pYwTwGnxUjoY=
+
+Name: com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer$TableInf
+ o.class
+SHA-256-Digest: BSIVhMZAaN8r5UsCXzHt0j23KVp6KcUQPQeAiUBpLyY=
+
+Name: com/asprise/imaging/scan/ui/workbench/ixe.class
+SHA-256-Digest: PRrFuY4Kek2rlWTzjDAevOLWZaFGFbVjF5pLqSm7RSs=
+
+Name: com/asprise/imaging/scan/ui/web/idb.class
+SHA-256-Digest: CHNIUgTsMZsnF0WEfxdnRqtrIEiJJs6pcZAyS+nNLXg=
+
+Name: com/asprise/imaging/core/util/JsonUtils.class
+SHA-256-Digest: hDuRKr57e9oU1XKbgrvuHBiAod3pqM/ludoZG9jMlBA=
+
+Name: asprise/demo/bw/img-20.png
+SHA-256-Digest: pswLw4GWdJ8bxJxjr3oyYiyo1C//WfUZRztqxo4MUw8=
+
+Name: com/asprise/imaging/scan/ui/web/it.class
+SHA-256-Digest: b2ot65Q737zG88yMSo1SpGQn2CGPSqymeVH6Rk0VY/E=
+
+Name: com/asprise/imaging/scan/ui/workbench/ise.class
+SHA-256-Digest: pPm8RSP7pEmp73dkPBPro4ScJOGeksIPWd0nk+s3vF4=
+
+Name: com/asprise/imaging/core/util/system/LogAdapter.class
+SHA-256-Digest: 1zt/iMVBZnoi7hPfvC6JHPAwhk32Xv5hSs8OjbVP3B4=
+
+Name: com/fasterxml/jackson/core/io/CharTypes.class
+SHA-256-Digest: 4vC/EPDSfoVWNeD4KaHLQ49oIE/V4FVDzNASB0NM71k=
+
+Name: com/asprise/imaging/scan/ui/workbench/icc.class
+SHA-256-Digest: xNNdgiMKcGm6r4GJSimJ2WMwXG+nsnI7EzXDLC++EKg=
+
+Name: com/asprise/imaging/core/util/system/NativeScanLibHelper.class
+SHA-256-Digest: mTWnURVUg5OnwOpJQnqKMfzv88AsiulCB1KjsVgh140=
+
+Name: ascan_trans.properties
+SHA-256-Digest: lS2Q33NrVcpA5k6XoxhFy9Bvh4m+Gtx0VZTGsMspgr0=
+
+Name: com/fasterxml/jackson/core/TreeCodec.class
+SHA-256-Digest: 9gU3S5wH92GJZfpGoDxF78CMK1/jSss+vO634HfVy/k=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/idb.class
+SHA-256-Digest: TkbVsa69qs16+o0ysBA//UtppHIwAFboTX1hdoiUnMo=
+
+Name: com/asprise/imaging/scan/ui/workbench/ihe.class
+SHA-256-Digest: WOUuOXZKxaRg30AKehB4t0olpGfhPQZaQ140ViSb1Ec=
+
+Name: com/asprise/imaging/scan/ui/workbench/isd.class
+SHA-256-Digest: zYNZsTI1Rg64Ak7QyNJ0n1tHTfExsniT3N8F7jJbzc4=
+
+Name: com/asprise/imaging/ui/image/editor/iac.class
+SHA-256-Digest: glWKDHiniFHOJDY5FTJL3fimOBRDyQtmikZXIAvL2l8=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ip.class
+SHA-256-Digest: Jy4SaJdwnC0y+Um2KS2k3du7DTWYX+znKZLY9r2qSlU=
+
+Name: com/sun/media/jai/codecimpl/TIFFCodec.class
+SHA-256-Digest: WBCnYoDs5C5ac7j/YAq2laAETnMP0/S5eWdASgByu+g=
+
+Name: com/asprise/imaging/scan/ui/workbench/iy.class
+SHA-256-Digest: M7arJfNSysL2QRDG4Erwdw/EoF8bAryGhABhvi0ucvg=
+
+Name: com/asprise/imaging/ui/image/editor/ij.class
+SHA-256-Digest: uvS0Cy7kDlT3uxExFRAMSMLlzbNy6mswmOJJLF81fhY=
+
+Name: com/fasterxml/jackson/jr/ob/comp/ArrayComposer.class
+SHA-256-Digest: PoZc843tIe8/vygSLZ6VgyljXBwuMswEi1pXgrwlXug=
+
+Name: com/asprise/imaging/scan/ui/workbench/icd.class
+SHA-256-Digest: Uuv/Tuef3e/VUflO1gqZhk4qTm3X/x8VsnA49sv4ONc=
+
+Name: aws_lic_mgt/web-warn-16.png
+SHA-256-Digest: FsxaAm2JrQcuwOO0JP8wk6s9lvXaL2vD7SMqe4pwJeA=
+
+Name: com/asprise/imaging/scan/ui/workbench/imd.class
+SHA-256-Digest: yJG8JXt5QqVFrX/euA0sOFbEVZcsxYuIXHBcPXQUr0Q=
+
+Name: com/sun/media/jai/codecimpl/CodecUtils.class
+SHA-256-Digest: aYkFr882EbPhZ5dOy18FpBtnt4dm9IPwlrmTjLrZH5k=
+
+Name: com/asprise/imaging/scan/ui/workbench/ih.class
+SHA-256-Digest: LR2UTGhD5Ap/hdP7d7lsUM757UqtTH64Ihg3VvmEkTY=
+
+Name: aws_lic_mgt/user-warn-24.png
+SHA-256-Digest: 44vvcZwJCAsY6t1wyQW2V5LYMt0x7VJGQCAjUdTt5qM=
+
+Name: com/fasterxml/jackson/core/JsonGenerator$Feature.class
+SHA-256-Digest: 2IksnO36lbCTStPhB1aVxKS0E56+1CeGOTznIGSmnc8=
+
+Name: editor/icons/Rotate16.png
+SHA-256-Digest: r95VAG/de4GiQGhgWP7Qvnn81HbQrpvGOoCxpTv3XrQ=
+
+Name: com/asprise/imaging/ui/image/editor/imb.class
+SHA-256-Digest: 1rkRkkUgvs54zMp5xlALlYIP5k3zKxHcFVa0VZtgxM8=
+
+Name: com/asprise/imaging/scan/ui/workbench/iid.class
+SHA-256-Digest: eC0meRovska1rTiCByyvvRRpWbAJaIx9CipiieIyC04=
+
+Name: com/asprise/imaging/scan/ui/web/imc.class
+SHA-256-Digest: EJluXCZzEDn/XrwxhvJNCEhrIUTChU+tKeaAHamOV1Q=
+
+Name: com/asprise/imaging/scan/ui/web/iuc.class
+SHA-256-Digest: xX7NUWAIhRIcODQWHElzXFHwOu3dZWvuQfBOt0O7U60=
+
+Name: com/asprise/imaging/scan/ui/util/ib.class
+SHA-256-Digest: zbtfzGEtvVDiW9pVC7xd/JUWEBCXIg7fji4F5gDZsyM=
+
+Name: com/asprise/imaging/ui/image/editor/ieb.class
+SHA-256-Digest: odbai2f5yu8Uyxg9/bsEBxhwOowxxkOlHsEbSzBaSCs=
+
+Name: com/fasterxml/jackson/core/JsonFactory.class
+SHA-256-Digest: G00KDJhxBiFJYuryqsDII2szV4DF7c3G1ccpwDeQBRY=
+
+Name: com/asprise/imaging/ui/image/editor/iqb.class
+SHA-256-Digest: 5lBLvYwdehv4o5LTzCHOY0jtzdPCKaCdcbgpHqMSNgE=
+
+Name: com/asprise/imaging/ui/image/editor/in.class
+SHA-256-Digest: aqEQZ1LgtX8AZVN09wWSZBAQYuIGojwcfurlrtFUjcs=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$1.class
+SHA-256-Digest: IrYpo914Lq25wRuG2E9BaPef6czUls6GxJ6NQssQt3c=
+
+Name: com/sun/media/jai/codec/TIFFField.class
+SHA-256-Digest: ++ik9y3G9ifktpFxLQdPJE7wGguk/o+tJJ2E7TtaMGE=
+
+Name: com/asprise/imaging/ui/image/editor/iyb.class
+SHA-256-Digest: 0CKt3zSB6zRzjE2zbY04nutWsBoIWcmGXXkkp6u0dz0=
+
+Name: com/asprise/imaging/scan/ui/web/iac.class
+SHA-256-Digest: g4kBUL3xdCgzpohDcYh6955/dHC10++aXDjR8Crp2rc=
+
+Name: com/fasterxml/jackson/jr/ob/JSON.class
+SHA-256-Digest: UwMzYoQooLNq1da0/NQMdxqpO1US1CmG0dtKH/9VgB0=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ikb.class
+SHA-256-Digest: prdMaPfxQngeSKTN5xZfxOolRz0A1tXwK1b54Uz61Uo=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ir.class
+SHA-256-Digest: SbRCp9PNAWai4MmXcdNHdQNglgUVsSFhI0qwKxzPrV8=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/icb.class
+SHA-256-Digest: 2C253aTQ6H8Y7UrmZOCkizmislmqb9/ZtY2BUc7ceN0=
+
+Name: asprise/history-16.png
+SHA-256-Digest: vFy0MZPM9ZTCmmP1xPOy3dqaRKCU4DsrumAwMOzTDps=
+
+Name: com/asprise/imaging/scan/ui/web/iw.class
+SHA-256-Digest: Ld9gg7v5UnCZwzhKrfNiKhHfP+07O7r07ZjB7eGPz0I=
+
+Name: com/sun/media/jai/codecimpl/WBMPCodec.class
+SHA-256-Digest: Aek28yL+fe81SdILIBDMsqhGq8BEtZ0zq3aZGrfT6Wc=
+
+Name: asprise/demo/bw/sys-20.png
+SHA-256-Digest: mb5wYmuA1qWzHlOUn0DPd/YHDUp6NF0jDL3YGhzkRdQ=
+
+Name: net/java/balloontip/utils/FadingUtils$1.class
+SHA-256-Digest: 0KRCAoyfyNIMBUrkkfph2T1VW99mTyfITkFBWIcHvSg=
+
+Name: asprise_editor_trans.properties
+SHA-256-Digest: QLBtDyrTiIs7R9PnTDy9nSqa6WURuvNV3DH0W05vNug=
+
+Name: com/sun/media/jai/codecimpl/SimpleRenderedImage.class
+SHA-256-Digest: 49tCk1F8+DiMewdeS4Md+e55X7yc4qqrG2ZqthhcVrI=
+
+Name: com/asprise/imaging/ui/image/editor/is.class
+SHA-256-Digest: 5bvfxDNkv/TjXauWsT8K/Xvl6HHZgpCPjnMCTXJC03Y=
+
+Name: com/asprise/imaging/scan/ui/workbench/ic.class
+SHA-256-Digest: gqPjZ7Qp5XgGqh7iCbAthcjqBV1ttuW4ppo4+wWM0QY=
+
+Name: com/sun/media/jai/codecimpl/PNMImageDecoder.class
+SHA-256-Digest: eBJhOrNmWdz8VP9tGMLls3kDEYFQWKCikr01NiWhXyQ=
+
+Name: aws_lic_mgt/user-error-24.png
+SHA-256-Digest: U775pL4iROd87wSduR/GL2NsS3vA6EHRiwjIFjQCAGo=
+
+Name: asprise/demo/bw/edit-20.png
+SHA-256-Digest: 62cNp6r0nymolVm+5hJqESdV3TcXMmDACEC//PuCy8Q=
+
+Name: com/sun/media/jai/codec/ImageDecoderImpl.class
+SHA-256-Digest: q8nln0Mm+2R6WZ+YMaRvD30MYty9tTXBmWQqME32P5Y=
+
+Name: toast.exe
+SHA-256-Digest: TnJn3UzloKeAqDYED5HgQt/w2MDF8my03LnsZjUmWBI=
+
+Name: com/fasterxml/jackson/core/Base64Variants.class
+SHA-256-Digest: JvciK6nUPBLUxxqA1OUTPDYE7GHZTfaTXTRYFVqSyfk=
+
+Name: com/sun/media/jai/codec/TIFFEncodeParam.class
+SHA-256-Digest: AzlJBipuSPoNrnEajpPH6T5FcPXAB0zYZ+Hhy1sjWY4=
+
+Name: com/asprise/imaging/scan/ui/workbench/iad.class
+SHA-256-Digest: DHPb5NPYzN8jkIkwnv+oXXXkPViM4b9m9WgUcPzO7Sg=
+
+Name: com/sun/media/jai/codecimpl/PNGImage.class
+SHA-256-Digest: 8qDPKNk6s1kc4YMVMzjtbuHyJdtxUvs/AR2k39OcJdQ=
+
+Name: com/sun/media/jai/codecimpl/JPEGImage.class
+SHA-256-Digest: Bb4NPv1Pu0HSZpbFIjtIbufldIjf4QTxe+pmVr/hZF8=
+
+Name: com/fasterxml/jackson/core/io/UTF32Reader.class
+SHA-256-Digest: czNI6y5ze0AfSZzfSU6xX7g6j7VHCXUofdbShyjQ8/A=
+
+Name: com/asprise/imaging/scan/ui/workbench/iud.class
+SHA-256-Digest: /cZ0hrAjHwCJb1i3OG38zYe8rKf2K1hP6LcHAZniMpc=
+
+Name: com/asprise/imaging/ui/image/editor/icc.class
+SHA-256-Digest: vhyxwVhB127JGXVDYF2Guz7rJrUa4q+Ge6PcDjzsS1E=
+
+Name: com/asprise/imaging/ui/image/editor/iz.class
+SHA-256-Digest: Yc/NZflxsSDeUGoLcIP3rxU0qOothgwlXBqDciFiMOg=
+
+Name: com/asprise/imaging/scan/ui/web/iy.class
+SHA-256-Digest: DFyq2EDKgLYbnRNsTMViSUJAZX9WPunp5iteVXv9NzQ=
+
+Name: com/fasterxml/jackson/jr/ob/impl/MapReader.class
+SHA-256-Digest: d5+gqtvf3MJx44XV2tuni0TTnzxYzO67FK2K8wHR6JM=
+
+Name: com/asprise/imaging/scan/ui/util/ijb.class
+SHA-256-Digest: jHf0wki9sS8X5JrWCX2LeJY77vvxCkexuxP54DP6sOc=
+
+Name: com/fasterxml/jackson/core/FormatSchema.class
+SHA-256-Digest: FnOYQGL5apu7GKf7+V9fbjUIkA/M+42bFJ5WEyRwD0c=
+
+Name: net/java/balloontip/BalloonTip.class
+SHA-256-Digest: KkidlvL2eDLRaTzd/bYSJhP3terUnaL1IwvUKWz1kUs=
+
+Name: com/asprise/imaging/core/scan/twain/CapOptions$CapOptionItem.cla
+ ss
+SHA-256-Digest: AhvmXW1eXRjlbWtSpL5Lfoj0kqDOL+H5dAlGPjCyX9s=
+
+Name: com/asprise/imaging/scan/ui/workbench/ir.class
+SHA-256-Digest: G7TMIZIB5OY2KnP2LyOW0noKBj+iMDQ0xJIPBmhxsuU=
+
+Name: net/java/balloontip/TableCellBalloonTip$1.class
+SHA-256-Digest: uODJ5lwbGhO1wHNnhuWIzDx69GD9zDImCR7sDbIjZFg=
+
+Name: com/asprise/imaging/scan/ui/workbench/iwc.class
+SHA-256-Digest: QVV3Ump+v3/0/hBJSaxUKouEAlOC9pOBmmZTeEAHyY4=
+
+Name: com/asprise/imaging/scan/ui/util/ibb.class
+SHA-256-Digest: ++cCa2eA/wwUCrsGLywlz0eHsORespVRAqBDZIhsVf4=
+
+Name: com/asprise/imaging/scan/ui/util/igb.class
+SHA-256-Digest: +kePPgIkAyO4DMJJINEthP4RZLirtjZZed6eoZZ1enk=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/iy.class
+SHA-256-Digest: +gA5LPMLUuq7mj20T34PWqW9Y7Btp5UjwyTKEtu588k=
+
+Name: com/sun/media/jai/codecimpl/util/PropertyUtil$1.class
+SHA-256-Digest: Xru2MPU5kaNjF4DSyFouWuC6a02/j/ZeNDWiwudF/vc=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences.class
+SHA-256-Digest: lskONirJNi66Lt3DpvmV5q0CLpS4a0SN/i/5SU7dP1Y=
+
+Name: com/asprise/imaging/core/scan/twain/Source$CapValueEnumeration.c
+ lass
+SHA-256-Digest: VZksv+bgvx2GqU+qHrVKjjzCa0q+b0AXvGTayXmJkI4=
+
+Name: com/asprise/imaging/scan/ui/web/ipb.class
+SHA-256-Digest: 3Q4nPR+y4wHyFQ9z3dF6BVJpzYCpotH6Xsuzkhr8rZc=
+
+Name: com/asprise/imaging/scan/ui/web/ihb.class
+SHA-256-Digest: a5XQ44gBqzFwYrpR7647gTRU6HR0SU1BeBJjqPiRQm4=
+
+Name: asprise/demo/bw/launch.png
+SHA-256-Digest: b6TTtM3cFlVrwGLkR0kh3n40icAGlZnqQMX9SipmIDo=
+
+Name: asprise/usb-16.png
+SHA-256-Digest: ReMNX7cPh7YiVeg/BXzQB6kdPF7r4ByiDPwLFFlagtU=
+
+Name: com/asprise/imaging/scan/ui/workbench/imb.class
+SHA-256-Digest: cpOWAr/L5z5IWZCyEC39UclWFwWD0Gtn1uQ5WJVDnXc=
+
+Name: asprise/demo/bw/full-20.png
+SHA-256-Digest: AfIiSRCBqMigOQACh5AJmWrydpIzWa7M83oiedttgLk=
+
+Name: com/asprise/imaging/ui/image/editor/ijc.class
+SHA-256-Digest: epJM0c9Ml3/zZk6LuuugNKg3G/KHi4e67N1ITcApCSA=
+
+Name: com/asprise/imaging/scan/ui/workbench/irb.class
+SHA-256-Digest: +6u8WGtbJeYMTpgQ3/kKRjHjRSSBSyvAnRrnCNeeqwQ=
+
+Name: com/asprise/imaging/scan/ui/web/icb.class
+SHA-256-Digest: b8eA8GiNs+U5coTLHv9GuM+0+5Qtz0RNkAUf+i7Ege0=
+
+Name: com/sun/media/jai/codec/buildVersion
+SHA-256-Digest: J/6x08vtTyjImqcyPmjRL8Np1lSKhEtxYRn406v129s=
+
+Name: com/asprise/imaging/scan/ui/workbench/iwe.class
+SHA-256-Digest: /BvYufB4j4nvMfiK/iP3Y3RPxAF9tc5NVA0HAa+iKKc=
+
+Name: com/asprise/imaging/scan/ui/workbench/it.class
+SHA-256-Digest: rHOh2e8HuHBY/actKtFuhUJj1fYVFVNX1VwbUP3P1fs=
+
+Name: com/fasterxml/jackson/core/io/SerializedString.class
+SHA-256-Digest: VrG0IKe0sOgV57p5yslL3EcZAVEIvy1npkaxXX0JExE=
+
+Name: net/java/balloontip/positioners/LeftBelowPositioner.class
+SHA-256-Digest: BYPowd26Fdvtf3rhJ/pijsFJ7XTzmyq51TvZWnB1DMg=
+
+Name: com/asprise/imaging/core/util/system/LogAdapter$1.class
+SHA-256-Digest: iOZTMyyigImTAQv7eCLX9SoGFNXqM5Qb1RURI54rmFU=
+
+Name: com/fasterxml/jackson/core/io/UTF8Writer.class
+SHA-256-Digest: f90DaNNte6+4E6sTpTZ3GJ6y1LjDiqwK9/Adiq9BWNU=
+
+Name: editor/icons/Print16.png
+SHA-256-Digest: LMjg/0Qg6QYzgc5uK7TI1Z250W7W02Hz1Taxrb0SkaM=
+
+Name: com/sun/media/jai/codecimpl/TIFFImage.class
+SHA-256-Digest: umst/+wMDCkeGWQDtX6kWU7BDnFykA5giyEp7sETBnU=
+
+Name: com/sun/media/jai/codec/PNGDecodeParam.class
+SHA-256-Digest: 9RFQe43CcZqAtTEiOyMB+xuIXjD6U3qyoP4ZH5yrLNE=
+
+Name: com/fasterxml/jackson/core/JsonGenerator.class
+SHA-256-Digest: DOVKErS/QDpdd2l6GZ+jJ+EKIC9bA8cKiyBYgvG4oiQ=
+
+Name: com/fasterxml/jackson/core/json/UTF8JsonGenerator.class
+SHA-256-Digest: iugnkvdOdFt6x90Dn9+Iv/KYH0QOuEwSjcnEbqDzDzQ=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/iw.class
+SHA-256-Digest: tuaq2wNuLtsJaEhzmaGsvZnPqTpj2lg4DNFKtpl0FwA=
+
+Name: net/java/balloontip/positioners/RightAbovePositioner.class
+SHA-256-Digest: VOtluORzHNTgNMHF4FDJSjSkqh38T01xV4B6x5IKePs=
+
+Name: com/asprise/imaging/scan/ui/web/ikb.class
+SHA-256-Digest: ZqjycTSvdmpx5znmcnkR3eeYvo2F1BiupR1OhJwUN7s=
+
+Name: com/asprise/imaging/ui/image/editor/ip.class
+SHA-256-Digest: KNPpECakJpXFGqkvKvdOpG32X9sa7R14+9gKy8XxG1o=
+
+Name: editor/icons/Forward16.png
+SHA-256-Digest: JNz+/m6j1hKp3Bk8TqCWHAyJ9wS+T8sOr3X2XTaem2E=
+
+Name: com/asprise/imaging/scan/ui/workbench/izb.class
+SHA-256-Digest: xyrLYDiD8r25W1OSNk71st8sLSty1C+9FPTsaBaJXJw=
+
+Name: com/asprise/imaging/ui/image/editor/ijb.class
+SHA-256-Digest: Va3b3MAWPSAC7H2y50JwhfjwNNR+Y0+11RmVvQbFqD4=
+
+Name: asprise/refresh-16.gif
+SHA-256-Digest: Sn4Yqzgpg8aHsbqhz+TtbMZbDTRmWhts+1+VYCvOdXM=
+
+Name: com/sun/media/jai/codecimpl/GIFCodec.class
+SHA-256-Digest: xzDS8RKqyDYJGO1M3dMd65VnO6/rjtgihVg1bD5Uz6A=
+
+Name: com/asprise/imaging/ui/image/editor/ihb.class
+SHA-256-Digest: 5kxus5yEg69gbagcxAOYqXhqmu/PCK2B1PWQCxjRW6g=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/irb.class
+SHA-256-Digest: x5xQp2TbcX+K7TLBopCJEm1/HHKo9PsA9qBeoT0H9NI=
+
+Name: com/asprise/imaging/scan/ui/workbench/ipd.class
+SHA-256-Digest: mKK2qB+98br8WgAJocuMXVEQSbgQqH94i3GvYLwaiz0=
+
+Name: com/asprise/imaging/scan/ui/web/irc.class
+SHA-256-Digest: bog4CvwNR+jnZ87RTnUumcDP+Zes56RNtH5a41aMu5o=
+
+Name: com/sun/media/jai/codecimpl/TIFFFaxDecoder.class
+SHA-256-Digest: sWKndIHR8PI1I13tw7FtAW+EncXGKFO6uUC7YjQPcZs=
+
+Name: com/asprise/imaging/scan/ui/web/ifc.class
+SHA-256-Digest: 9NQxvQIlkJr05GF3436IIabrDStnIW+ip4QKEWYVCao=
+
+Name: com/asprise/imaging/scan/ui/web/ihc.class
+SHA-256-Digest: BzxABfWyBxcXmkQLSrJbe9d0U2L8CT0isrPENsvMi18=
+
+Name: com/asprise/imaging/ui/image/editor/itb.class
+SHA-256-Digest: umripRel4+faryI/JZisPhBWnLw8YHXeD+gtZ45ciXQ=
+
+Name: com/asprise/imaging/ui/image/editor/iq.class
+SHA-256-Digest: DwZ5HQsAT/vI+DMOu5uQ0iUCq1qc+P3gVwa0carZp0g=
+
+Name: com/fasterxml/jackson/jr/ob/comp/ComposerBase.class
+SHA-256-Digest: F35W03CpvwoSeTaH1pxzf8HIq1pY7U/j4IX7/OYdZV4=
+
+Name: asprise/demo/bw/file-unknown-128.png
+SHA-256-Digest: qeDQ/V/kG50cYNMu4M7vY/8GQyoXhrNGg5rGso1Yy4k=
+
+Name: editor/icons/Acquire16.gif
+SHA-256-Digest: A6jQXouPZdOKrxaVpfXelnaSZwqV26U+PeFDPdNfNPw=
+
+Name: com/sun/media/jai/codec/SeekableOutputStream.class
+SHA-256-Digest: nLYi7teMud0HF23ydtJZ1wBYRsTF1bJtQOl1djDsD9s=
+
+Name: asprise/loading.gif
+SHA-256-Digest: 3yAuZpji4hXFyEsXmgWBr4QiVXb3cHBv12B9EKdv464=
+
+Name: ascan_trans_ru.properties
+SHA-256-Digest: +GPvxFr5ma+JspEIcq33TuX8kdoN6ZfONQ9IxNhsrKk=
+
+Name: com/asprise/imaging/scan/ui/workbench/izd.class
+SHA-256-Digest: smL6k0XPwOfqSn3qG8Zdp98ExbZmcLT201egY75IrYI=
+
+Name: editor/icons/About16.gif
+SHA-256-Digest: H3sXgu4/TBXr20k8MW3lSDfwvC4+pszHncjkBH4mmrM=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$10.class
+SHA-256-Digest: Bhy7DYnR2/9Ol1CET0IiepFa/ZbijOR3y+f7bRiZiHM=
+
+Name: com/asprise/imaging/scan/ui/workbench/ik.class
+SHA-256-Digest: 5b1jiOumY5LTQvovx/qaQox0hH/B6bHpkXS/H/7HY50=
+
+Name: asprise/asprise-demo.properties
+SHA-256-Digest: 5Sjs2Dro+JnoFKSLGMiEhP3F+Ai+X0G65i9BHCOTPkU=
+
+Name: com/asprise/imaging/core/prefs/XmlSupport$Resolver.class
+SHA-256-Digest: 9l3cFdsJJqsVCqBn0+IgFg/7t84rnLc0cD1+6k0myXg=
+
+Name: com/sun/media/jai/codec/StreamSegmentMapperImpl.class
+SHA-256-Digest: VpcrFdJQWs4nrWGi3MBEVLbdKlqfeJlBdgv5SoRArgQ=
+
+Name: com/asprise/imaging/scan/ui/workbench/ifd.class
+SHA-256-Digest: 4RuNFpuDqZlr+L7Ri2G1iFFEc5aOYnTJt1rIB8glblQ=
+
+Name: com/asprise/imaging/scan/ui/workbench/iub.class
+SHA-256-Digest: 3Q8PH0P/IDMtqBzXS5iOd0su1+zhBh1ajLEnfs+2vis=
+
+Name: com/asprise/imaging/scan/ui/workbench/iq.class
+SHA-256-Digest: 9CkPbU3+Pn1JusqDNA9Us/e+ZAdvlJm1Y9mEdDGT2qE=
+
+Name: com/asprise/imaging/scan/ui/workbench/iwb.class
+SHA-256-Digest: KdPmRfzePMROlYTKlyd67cgAxptoHeVsaM/K1vJ5bHI=
+
+Name: asprise/crop-64.png
+SHA-256-Digest: 6WLsAwjPVTk6WlFm6go6V+bAaLc9EhYEVc+/3quecnE=
+
+Name: aws_lic_mgt/web-error-16.png
+SHA-256-Digest: C52dzzX8/TXQ964q0EoIkV/kenRoPLQKzjJLwrxuhq8=
+
+Name: asprise/logo/16.png
+SHA-256-Digest: YJWUTkKapdbzSIXhLZ3zn6pYlC6F7ET68AE2ZFtFomU=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/iz.class
+SHA-256-Digest: 2D6/G8/SiC9pZHQx36C8IcgXLoRak/aibP6odkTJBag=
+
+Name: com/asprise/imaging/scan/ui/workbench/ij.class
+SHA-256-Digest: DOaSJ9Fa+Y7uaUPuZ7nMLgj9oB/uhUpDjye1PiODsus=
+
+Name: com/asprise/imaging/core/util/OutputProvider.class
+SHA-256-Digest: 6+3uksuGMu1UHJO2m7UfAEaMRIN1rRWs/VY4VWPN83U=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$11.class
+SHA-256-Digest: 2GHa/4ceaR+lUW0nHtRp1RXKLrAwmhXvfXA0yG6wCEg=
+
+Name: net/java/balloontip/TreeNodeBalloonTip.class
+SHA-256-Digest: vzUzTeZodW4xOK5UyFtuLAYyqAX491Nkz2odSwgJ6d0=
+
+Name: com/asprise/imaging/core/scan/twain/CapOptions$CapOptionsComboBo
+ xRenderer.class
+SHA-256-Digest: 5lecbIyM9aJn3MSfikYawq/amm9URFvRzDqtXvYVwgs=
+
+Name: asprise/demo/bw/file-img-128.png
+SHA-256-Digest: 04949cd0Z6wVB1evL51rNkPZ+PrScEaiNNrcYF5y1OE=
+
+Name: com/sun/media/jai/codecimpl/fpx/PropertySet.class
+SHA-256-Digest: oJ9KKhpl3EOUOiV8mLBZisMsDXrYHh0/ifJPeGrI+Wc=
+
+Name: com/fasterxml/jackson/jr/ob/JSONObjectException.class
+SHA-256-Digest: oivPAwxSvxg/xyJSdWM9Sp4ByXbhQpNljqexYoCdfmg=
+
+Name: editor/icons/Cancel16.png
+SHA-256-Digest: cN/bwzFa9KCAf20zS3klG4B2taqQoj73HawLaOmguw0=
+
+Name: com/fasterxml/jackson/core/JsonTokenId.class
+SHA-256-Digest: WtODQMi6DmfWeT7l5P8yzW/p8I+xSubB168w0fqkUiU=
+
+Name: com/fasterxml/jackson/jr/ob/comp/CollectionComposer.class
+SHA-256-Digest: dSTuLUwo8c0ChNgXiYj4OrAmO3L9Hkxk8MKgKtuW2tU=
+
+Name: com/asprise/imaging/scan/ui/workbench/ip.class
+SHA-256-Digest: KVMYSIhwyO6hSxQjimB1R73ijMTrwh3e5laf2RAhg8k=
+
+Name: com/asprise/imaging/core/util/system/StringUtils.class
+SHA-256-Digest: DnZaWJ4C/y6x+ZoP59Tj7Ps7a5XSodu2fUEQ4OEINA8=
+
+Name: com/asprise/imaging/scan/ui/web/ScanApplet.class
+SHA-256-Digest: RcOI/SMbUJliBfc2u1fgkY73DnuHJNI/GoqxcIkLV08=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ifb.class
+SHA-256-Digest: Rk+4PqjjWKXJCKOyq/NLTzfzdZggP0P6yUZB6k+6Vxs=
+
+Name: com/asprise/imaging/scan/ui/workbench/ife.class
+SHA-256-Digest: jQWC5fimt4Pm8NKjuPrqWswx09Fe3Hzzbfa10dH1e0U=
+
+Name: com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer.class
+SHA-256-Digest: vd4wCpXV2RMTcuiWeVO3IHxFpGno8ZUcBmWdXtEQ4HI=
+
+Name: editor/icons/jid.gif
+SHA-256-Digest: Oi2anzeXep6nchFsj0tNemFICBhjbAVTMed4kq6EjPY=
+
+Name: com/asprise/imaging/scan/ui/workbench/io.class
+SHA-256-Digest: IrgO5CGWetdBEZIQsKERGv2UWdlKSCBzfW75EZ39+e4=
+
+Name: com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer$Bucket.c
+ lass
+SHA-256-Digest: CXLGnzep2nvspCjIoxVx9ak5Y81WxamIcerbANzAobU=
+
+Name: com/sun/media/jai/codecimpl/CRC.class
+SHA-256-Digest: xxeYdVkl+nMGO+12UQNl2VQ2w0lTF8ZsaDKG6IkiLvE=
+
+Name: com/sun/media/jai/codecimpl/PNMImage.class
+SHA-256-Digest: Tx/roT6DNv5b+I/w1h9e2LU81/oxxrdG40Y10H3P6vM=
+
+Name: com/sun/media/jai/codec/PNGEncodeParam$Palette.class
+SHA-256-Digest: P5jL1l/HJVfNWWZsRftk4AYuaA0MLGzJK3+SScSb1WY=
+
+Name: asprise_editor_trans_pt.properties
+SHA-256-Digest: l3Y3inwzcqtILY6T2MCgLpvl6JNfR5+RmpF8ye9Yx6E=
+
+Name: demos.properties
+SHA-256-Digest: MJuBwyBgRSqKqhnchHIkXuV8Dh72xCCClDRJDiWqIQM=
+
+Name: com/asprise/imaging/ui/image/editor/ix.class
+SHA-256-Digest: LDjo+AqR+76Dak5AX+5Obwo/nGB6uwxFoY6/aBwM6j4=
+
+Name: com/sun/media/jai/codec/ImageEncoder.class
+SHA-256-Digest: /6uwEa31tKEjmhpHg/fKscEg/xoCYRwSs+BjqUa69fU=
+
+Name: asprise_editor_trans_de.properties
+SHA-256-Digest: aBgE3cuCm3708qcvXyHE+wGbss8EXN4Buk0vxH80akE=
+
+Name: editor/icons/Web16.gif
+SHA-256-Digest: oDSiwR2nYOceO2qM5k5IjmsDIAaLWR6xvG2nD5gGw0M=
+
+Name: com/fasterxml/jackson/jr/type/RecursiveType.class
+SHA-256-Digest: qMKvyr9GO78kjH3ysCEPE4TAfi0Ndj1dBXVjA0Qv460=
+
+Name: com/fasterxml/jackson/core/JsonStreamContext.class
+SHA-256-Digest: 0dyTFQnt6lcUNtFCS6bjjfIR0mK9eyGUyeAdAPBBUSs=
+
+Name: com/asprise/imaging/core/scan/twain/TwainException.class
+SHA-256-Digest: LtQyJI6+AS8qqSOmzuuKC/13ww3X2JixPVIW9OQEKTg=
+
+Name: asprise/lock-16.png
+SHA-256-Digest: TuqAmS50EvVyFotcO8V26Dmx5zYA9YKpsQKrKIkvXQE=
+
+Name: editor/icons/Zoom16.png
+SHA-256-Digest: yZ+TOaR0gc2N8W+9POtqrDDmuF40Dcix0BNkA8LPfWQ=
+
+Name: com/asprise/imaging/scan/ui/workbench/ipc.class
+SHA-256-Digest: 1dtnc1iwfOJzCtbUFHrdFZdTAKX9DbkD+/rIF0hc7P0=
+
+Name: editor/icons/Open16.png
+SHA-256-Digest: bSYwMNwhmmPA4InWHszY8waIGma1yfzCtqufzaNH7xA=
+
+Name: com/asprise/imaging/scan/ui/workbench/iab.class
+SHA-256-Digest: VweEVnpb36ggtx52S0L3o8Wap+Ui3aGw1/n6WFo38oE=
+
+Name: com/asprise/imaging/scan/ui/web/irb.class
+SHA-256-Digest: JxN4KFoK5LKUfnaG6/T9bSJuq4Af3YSGxs/YI/8+wD8=
+
+Name: com/fasterxml/jackson/core/util/InternCache.class
+SHA-256-Digest: m/+Ai42WGHqikHVGH+Ip+AsbV7TEjyZqo1qonbiAkHk=
+
+Name: com/asprise/imaging/scan/ui/workbench/ike.class
+SHA-256-Digest: dIgtm6PMeY0fNgbjHyxEQKN2OLvujvYYs+31qlRA46k=
+
+Name: com/asprise/imaging/scan/ui/workbench/ikb.class
+SHA-256-Digest: RDq8w2J1OUlbkcrPwiCYTYAttZ1fhlHYOp2ImNHjg5k=
+
+Name: com/asprise/imaging/ui/image/editor/iu.class
+SHA-256-Digest: CSwtX95mOiH6knBNjJBhLD8jXYM9DG3PUMFPaBZh3ZU=
+
+Name: com/fasterxml/jackson/core/JsonParser$Feature.class
+SHA-256-Digest: TIhZmm8VF2N01H1q0XTvw9P8dk89CVExyfpOfw4oAvk=
+
+Name: com/fasterxml/jackson/jr/ob/impl/JSONAsObjectCodec.class
+SHA-256-Digest: uF+hHz6zsm4MaD5ExSGF2eGOQDLZ2YGb0PFYDh9Wngw=
+
+Name: com/fasterxml/jackson/jr/ob/impl/BeanDefinition.class
+SHA-256-Digest: JMOqLA7GiOrV/Xbmf9kToZ71Ie1AHzOtgWPg/bjehIk=
+
+Name: com/sun/media/jai/codec/StreamSegment.class
+SHA-256-Digest: SMdZ4uF/28dnKSvmIKvYLgAD2GS1M6pfdHKKlUnQafs=
+
+Name: net/java/balloontip/positioners/BasicBalloonTipPositioner.class
+SHA-256-Digest: fZEhsT4WsWsExC3BpNMa3X8lc8Y2vrhkHzMRLLy/1F4=
+
+Name: com/fasterxml/jackson/core/Base64Variant.class
+SHA-256-Digest: p0ZgND4Tuw/z6W64ZS3SQ5kFBdyHJwMTrBa5KYesxEc=
+
+Name: com/asprise/imaging/scan/ui/workbench/AspriseScanListener.class
+SHA-256-Digest: 0LOUdsYaE3z0egK/U89g0uo2hWFiQciQxkQWxiQ33k8=
+
+Name: ascan_trans_pt.properties
+SHA-256-Digest: MwQ9txSMmDahMsMzHIrJAr7nLwf0PrQ+yQQnPd43Rh8=
+
+Name: com/fasterxml/jackson/jr/ob/impl/JSONWriter.class
+SHA-256-Digest: TPgbeDokhi9oCJ69llvFKIKujBCPUSd6jVSOD3Cf6vg=
+
+Name: com/fasterxml/jackson/core/json/ReaderBasedJsonParser.class
+SHA-256-Digest: 7bQPKSXkr4Q25kXd8BkKYI1HR7DboVXSxQ1u+UBBNcg=
+
+Name: asprise/128.png
+SHA-256-Digest: rrSY6+QK5Pa48EKBwccSBNvDVXTXlEqulaPHDagVY+4=
+
+Name: com/fasterxml/jackson/core/json/JsonGeneratorImpl.class
+SHA-256-Digest: PlWDmIJ8qP8YAAA0k/ObXWcPpgrxdatKAHXgzD+1pVk=
+
+Name: com/asprise/imaging/scan/ui/workbench/ikc.class
+SHA-256-Digest: V9QelbeydwS9Q/3PaXae91CYTyxGNX5yNEkFND9TYyg=
+
+Name: com/fasterxml/jackson/core/io/IOContext.class
+SHA-256-Digest: V8YZmysmiRxitWdyhjML6pw5/JnsLCd72y3CfRFEyv4=
+
+Name: com/fasterxml/jackson/jr/ob/impl/CollectionReader.class
+SHA-256-Digest: B3JTQHFhyW0j6E5hlND4SJYJXk0qBuEghxqo8iMXH2U=
+
+Name: com/fasterxml/jackson/core/format/InputAccessor$Std.class
+SHA-256-Digest: /RxkxtX+dRKkudh5ds0tnkwfq+lfwVGplg7jAMk9vcc=
+
+Name: com/sun/media/jai/codec/ForwardSeekableStream.class
+SHA-256-Digest: DrPoTN1dnXw1zhcKeqUEyemVuQE0aVOuihSJpq/2v14=
+
+Name: com/asprise/imaging/scan/ui/workbench/ifc.class
+SHA-256-Digest: 2I8CGKEmEO7kDfalBlqK4LK9vA2uynhOhuVNkPykZIE=
+
+Name: com/asprise/imaging/scan/ui/workbench/im.class
+SHA-256-Digest: uSPhhbC6dogyNEfLQQmxy1uICT1qwwQkrR7PSopCg+U=
+
+Name: com/asprise/imaging/ui/image/editor/iv.class
+SHA-256-Digest: qEZY5Mm4Wb9Cl74bY5yd5sXdbIOf8aXiF6EQnv6KL/Y=
+
+Name: com/sun/media/jai/codecimpl/TIFFImageDecoder.class
+SHA-256-Digest: sw96yHmIuH9HDG++/036BVtYW2KQkxJU6BMYQHntN2c=
+
+Name: com/sun/media/jai/codecimpl/fpx/FPXImage.class
+SHA-256-Digest: tOp4R6OqmD//cDqDs/wRNPe23iswoY/3zcj0xjeU/WA=
+
+Name: editor/icons/icon.gif
+SHA-256-Digest: F0hPUlPglfSBJxKPcmB2p8CeYsQJJZG14NmbrhleF1Y=
+
+Name: ascan_trans_de.properties
+SHA-256-Digest: Q6KkxEfEHq5JDOJ+GT2STJcsCsNtqHmgMYh6ix2Ni/w=
+
+Name: com/asprise/imaging/scan/ui/workbench/ipe.class
+SHA-256-Digest: bpxM49A1/7ajVrGOsomfOjeXDiyj460DXrQRe3Z3ynY=
+
+Name: net/java/balloontip/positioners/RightBelowPositioner.class
+SHA-256-Digest: UUO7qnWtI2yTUjzmNNi3cErjQCMIro4F3F4opZMEwiQ=
+
+Name: com/asprise/imaging/scan/ui/web/iwb.class
+SHA-256-Digest: CMHG9s/2vrV4Bv5BJ+eZm/LFiBh8azI9KHXdDJxXRP0=
+
+Name: com/sun/media/jai/codec/PNGEncodeParam$Gray.class
+SHA-256-Digest: OQirNT7ugGPO9g/Ym+j4lmwRyzyN2jFMQop1QMEtY1E=
+
+Name: com/asprise/imaging/ui/image/editor/iw.class
+SHA-256-Digest: Wg31vlWXIb8M2jVm36KndaBx5PJoYcUjoivdIOYhS+M=
+
+Name: com/asprise/imaging/scan/ui/workbench/il.class
+SHA-256-Digest: O2ndb7gBEMYzwWfOc2HrOsNIYJdXq92lN1WV4S8raCI=
+
+Name: com/asprise/imaging/scan/ui/workbench/ifb.class
+SHA-256-Digest: Z/M2ZE/P8ReTmWkFGvCNYx/pCFQtJb0IiWX8leCtfyM=
+
+Name: com/asprise/imaging/scan/ui/web/ioc.class
+SHA-256-Digest: VnOW7pAg0SdMclxxvBzrzsoCcP6pVVVPOooVRvCnuKg=
+
+Name: com/fasterxml/jackson/core/sym/package-info.class
+SHA-256-Digest: dZxnQ113wpjx+feNuB5P/PT1TFML3i6jBce92tTbaDY=
+
+Name: com/sun/media/jai/codecimpl/IDATOutputStream.class
+SHA-256-Digest: DfppMIOLUYiFYDEJG8BwA4kgqXwGcSSLEmItPWh8gTw=
+
+Name: com/asprise/imaging/core/ResultImageItem$ImageInfo.class
+SHA-256-Digest: BT5EVzMZ9njp/dpo7LAug714lNRT6zA254XdBnlB3h0=
+
+Name: com/asprise/imaging/scan/ui/workbench/iod.class
+SHA-256-Digest: qNVMIt9pcQ0Q0akkoxY7r74p0MkJ4p3tLc545coHobA=
+
+Name: com/asprise/imaging/ui/image/editor/ikb.class
+SHA-256-Digest: Ry1GrZzNw1wquuRH8pmg/c80S+UoZh3PLBndi1grmXo=
+
+Name: com/fasterxml/jackson/core/sym/BytesToNameCanonicalizer.class
+SHA-256-Digest: bIFHKefkkAhwsg1H/vl5noYLeDdQ07SIwNSGMMNbs0s=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$7.class
+SHA-256-Digest: vrtelYtaw2HFTU961D0KQV6jJbYhLlpDAHSdBlfLC0I=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ix.class
+SHA-256-Digest: aiQFmJsz6VW/M/ADhtRppMGdar9xiXDEWGViykAZzFE=
+
+Name: net/java/balloontip/utils/ToolTipUtils$ToolTipController$2.class
+SHA-256-Digest: VcxcVx0WdwKWnQifpRcHk9QiMz9f/2jPrsKeetqAe6g=
+
+Name: asprise/history-20.png
+SHA-256-Digest: Tn3Qbk2OgNHzpbpdBFSqsB0MyztYQwYKHI8X+l3UvKk=
+
+Name: com/asprise/imaging/ui/image/editor/icb.class
+SHA-256-Digest: U+gkAndCyBx09Z/PzWf1ZhBsOVyvZs4fwiGimCqhZUc=
+
+Name: com/asprise/imaging/scan/ui/web/igc.class
+SHA-256-Digest: xo0sPGrx8L0nCe8HeYu0GqaJZ124JQZqVeef/qUmLqE=
+
+Name: com/asprise/imaging/ui/image/editor/isb.class
+SHA-256-Digest: zJy5OMYgwroqVo1VXMuZA1pEkMxypMYe8aIzQBhsW0I=
+
+Name: com/asprise/imaging/scan/ui/util/im.class
+SHA-256-Digest: n5C7EkCqPU5dx3f9m7uiOAQre1ylFE7kTWuRkpzUvf4=
+
+Name: com/asprise/imaging/core/prefs/XmlSupport$EH.class
+SHA-256-Digest: B/HWcyzEVJkIAw/BnN439vWAfBBqmmVXikXtc/iD32c=
+
+Name: com/fasterxml/jackson/core/base/package-info.class
+SHA-256-Digest: 7zGfjLzPjwW3pSP7yXCYnIzTlZc0xg1mCp668nOSeVI=
+
+Name: com/sun/media/jai/codecimpl/JPEGImageEncoder.class
+SHA-256-Digest: IZpfgI51e3Fp9daAEnGxoKo2yTwlIURCCm1bp1wdK78=
+
+Name: com/asprise/imaging/scan/ui/web/ig.class
+SHA-256-Digest: ClL1zRYQKDlOJ8timej63sD+YLMLpcYXlmwVmf+6GB4=
+
+Name: com/fasterxml/jackson/core/JsonParser$NumberType.class
+SHA-256-Digest: 7mx//gjf5Euf7c6wLDfqSCDCBly1WMk0esKgqsYQHoM=
+
+Name: com/fasterxml/jackson/core/JsonProcessingException.class
+SHA-256-Digest: 6747LNxP+vsuKw75FmA9hohqkIqtLKSAysjus1luUHs=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/imb.class
+SHA-256-Digest: HTha/PCRN+d6aCO+m/P5TtkIWacNGplJUXIz3S4Pnqc=
+
+Name: com/asprise/imaging/scan/ui/web/iwc.class
+SHA-256-Digest: Eo1YeH2tDAJvBbgaKHfjUFYJ3cSqHu8eaTxapZwqW4o=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ieb.class
+SHA-256-Digest: ASZs3YIyu3YpAXYT5c/yJd25+vW0SUTFyvRO7O4Q7BQ=
+
+Name: editor/icons/Crop16.gif
+SHA-256-Digest: 0bPcEsJFAxQMBFQ8dFM20UyEt6vYzViU63PiwhaRVKY=
+
+Name: editor/icons/Flip16.gif
+SHA-256-Digest: H7TYETyzNfDRfwbeaMr7ZPnz0Woj+lFpIRe41a797hI=
+
+Name: com/asprise/imaging/ui/image/editor/ih.class
+SHA-256-Digest: ErfuvGieCGTvSaCrLbebEggvgHZC/m60GBDG7GUd9MQ=
+
+Name: editor/icons/ZoomIn24.gif
+SHA-256-Digest: XzFBWA37eXIRkxksj2bwkgPE242xvvI2u8j4X8QkIwc=
+
+Name: com/asprise/imaging/scan/ui/workbench/ipb.class
+SHA-256-Digest: 5SMuxvowdjYmZnyA8GVXYywFFGpwUk61P7QoOIMXpJc=
+
+Name: com/asprise/imaging/scan/ui/util/ir.class
+SHA-256-Digest: tqUmSWS1Fhj1h3MYHh1ADZrSMFL2zqQOPe/JdoovVno=
+
+Name: com/sun/media/jai/codecimpl/util/DataBufferUtils.class
+SHA-256-Digest: m7yUVxLwH3eJ4lFaPy4dx2TfOSOsc7UowFDSRWOpEnA=
+
+Name: asprise/64.png
+SHA-256-Digest: YmxR4tO7br9s4ZsdsFpYPbYf7PTI/fW/8RnzwytLLPE=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/is.class
+SHA-256-Digest: j3CBVNHgMnJeVTX8zEHCn6XTD28JCXvsJcnzyCcWLDM=
+
+Name: com/fasterxml/jackson/jr/ob/impl/ValueReader.class
+SHA-256-Digest: MciUpY/aeN8jfY0Fc19aV/ZGJVBHEZelXckcjD+bU3U=
+
+Name: com/sun/media/jai/codecimpl/GIFImageDecoder.class
+SHA-256-Digest: dtWkCDDLo/7XDyNn1W0gTFVo97monNVpU5LrpgMj4K0=
+
+Name: com/asprise/imaging/core/util/ImageOutputSessionListener.class
+SHA-256-Digest: fdhdmEV9erGfeAi5nvo389lOxelb26W0oDycRkRLzNk=
+
+Name: com/asprise/imaging/scan/ui/web/iq.class
+SHA-256-Digest: dn61U4++Q2AGK1gSnuTGXCe5CHkzPI0IDovjjn0SMqs=
+
+Name: com/asprise/imaging/core/ResultOutputItem.class
+SHA-256-Digest: HUKdPSxmyiQ9eMLODbPspX+pxN0RSqKBZ5F8AedzHJU=
+
+Name: com/asprise/imaging/scan/ui/workbench/imc.class
+SHA-256-Digest: TI0ybBK13WKzD6XvwTEyKYcwZ3XBa5AClsqQHmMa+sE=
+
+Name: net/java/balloontip/styles/EdgedBalloonStyle.class
+SHA-256-Digest: qFI8QGZeVZlkC5sjJVi7v7x26t0JaE3m0KwUGbatUJs=
+
+Name: asprise/empty-16.png
+SHA-256-Digest: uHXkfsM+4X/geg+UYTcVonBQKDH9Y0f78S/f6G0Y5/Q=
+
+Name: net/java/balloontip/BalloonTip$VisibilityControl.class
+SHA-256-Digest: IilxcGIjbUScwxiQiAWeS941qidqzX8NODlrbPm4ZFI=
+
+Name: com/asprise/imaging/scan/ui/workbench/iec.class
+SHA-256-Digest: p5KCv+pCgF+jxWtGOZtkGBd/CLlkzw+AQXAWFEQWg1w=
+
+Name: com/fasterxml/jackson/core/JsonFactory$Feature.class
+SHA-256-Digest: x59w8Imr+G0Nq4FwwFf4MZURFl3Q0ZtscE5SPuZDtIs=
+
+Name: com/sun/media/jai/codecimpl/util/FloatDoubleColorModel.class
+SHA-256-Digest: tJru5cpjschHuvxwvzIcePuVQlvXVKDs5yTBozma5ps=
+
+Name: com/asprise/imaging/scan/ui/web/il.class
+SHA-256-Digest: vJJz1Ooh8Ljw5kGsiEshhVATyQ5GuwdSfkGPI2E0JX4=
+
+Name: com/sun/media/jai/codecimpl/TIFFLZWDecoder.class
+SHA-256-Digest: 0eo8Lt89mEIXj4oKjnsaOU8gR8BdtpN45pAJmMflXNU=
+
+Name: net/java/balloontip/styles/BalloonTipStyle.class
+SHA-256-Digest: zjFxFeyyjc9i4tB559PUC0eh3ssNUA56cncTSyLDkRY=
+
+Name: com/asprise/imaging/scan/ui/workbench/ib.class
+SHA-256-Digest: YRSwuyM2HXPXymmy/biNOPGuxu73ppUb8iTQpFf3cSs=
+
+Name: com/asprise/imaging/scan/ui/workbench/ixb.class
+SHA-256-Digest: YcgfTwcrXZEEBGTwfknuQGet672RNZhUVu8m2SPITRI=
+
+Name: com/asprise/imaging/scan/ui/workbench/ihb.class
+SHA-256-Digest: VhM5jj6wzQNPkUQ7VSsW2FX5mk1VkSqtO0VDkCRdsRE=
+
+Name: com/asprise/imaging/scan/ui/web/iub.class
+SHA-256-Digest: MUlZcByKinIeYpuAcOjQdHDWCuFVLkYhD+X5JRyP8vA=
+
+Name: com/asprise/imaging/scan/ui/web/imb.class
+SHA-256-Digest: uNPjll7uegBO6vYVjb3QD6DltXkqGl9Uwh4PavHAiac=
+
+Name: com/asprise/imaging/scan/ui/web/ieb.class
+SHA-256-Digest: RY9FIQLo0ZSirmmJ3/T3EWoQN95yoPtLMLwh3sTosLE=
+
+Name: com/fasterxml/jackson/core/Versioned.class
+SHA-256-Digest: AphuTB8yF42ckJUJ4tb6Iq6QZCXVtZbOxoMQEh+wSfw=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$12.class
+SHA-256-Digest: T6CV4Enuf+q71OMwGrzQ7b/zJ9DhfEzSMhLIppDpMNw=
+
+Name: com/asprise/imaging/ui/image/editor/im.class
+SHA-256-Digest: zF7rYrRxry7LgP+Od4AzFlF09l+LylUvgGSRLdebHU8=
+
+Name: com/asprise/imaging/scan/ui/util/ilb.class
+SHA-256-Digest: Aj4wrU0PtHW9k1E3tiItVkeV2qcEX/SLzcBESDaQkfQ=
+
+Name: com/sun/media/jai/codecimpl/PNMCodec.class
+SHA-256-Digest: /pey3i+voU4rLC85cOKtZlOSeTD4FivfVLEu2M+CjS4=
+
+Name: net/java/balloontip/BalloonTip$6.class
+SHA-256-Digest: b9jqgkbY8wqvkkZGxCCXEreUcISsHjDW8OPC2Pt/oA4=
+
+Name: asprise/demo/bw/file-pdf-128.png
+SHA-256-Digest: UAC/oEGUwz5uU9d6lhf0jQQWX9Nra6o0/OQqleVje6c=
+
+Name: com/asprise/imaging/scan/ui/workbench/iae.class
+SHA-256-Digest: htt7Xc5eu1pBu7+UVfPJXmLp2F22j/oyQK9ybT+oHzo=
+
+Name: com/asprise/imaging/scan/ui/util/idb.class
+SHA-256-Digest: YGKj1ne0KVYC9GA5Pt7l2bDrJGTe0ByKIRbquV7+vio=
+
+Name: com/asprise/imaging/scan/ui/workbench/iuc.class
+SHA-256-Digest: nG8yDl3XX425INcioNLekdmP+U6EVbAIu6QKwnsBYMI=
+
+Name: com/fasterxml/jackson/core/JsonLocation.class
+SHA-256-Digest: Jg6qzIvDcujGOh/p8JHrwq8ntNitYaQURdxHt0fvAQQ=
+
+Name: com/asprise/imaging/scan/ui/workbench/izc.class
+SHA-256-Digest: rlhG64tjygjFq40AHhRm6pC2O1kbofZPLg+2D11OCR0=
+
+Name: com/sun/media/jai/codecimpl/util/DataBufferDouble.class
+SHA-256-Digest: NNir9dSjyv99/ymX6ceH/kK2YCYHR8BXsl6H3Mr3g+M=
+
+Name: com/asprise/imaging/core/scan/twain/Source$CapValueRange.class
+SHA-256-Digest: Zd15R37ti56iNKZ6eplJKKFbh6fwBqVUntLopLGrarU=
+
+Name: com/asprise/imaging/scan/ui/workbench/irc.class
+SHA-256-Digest: 9PYlaBN5r9nedpg8dFGy9WU9iDGFTX7TlKA0mVZXkt4=
+
+Name: com/asprise/imaging/scan/ui/workbench/PanelScan.class
+SHA-256-Digest: 9NdAXhpuELxQUavtMAC81Hh/QBA7PfEzdPeJH+pB0CA=
+
+Name: com/asprise/imaging/scan/ui/workbench/iu.class
+SHA-256-Digest: Ivtkwcvr0bv85zszNG0qtDiWi3PJTxG9gHt8/QLA1CU=
+
+Name: com/asprise/imaging/ui/image/editor/ihc.class
+SHA-256-Digest: Hgk0lQJ1OwjrGZflft6+1hBQJBCJLiDj4C2ZYIy7vZk=
+
+Name: com/fasterxml/jackson/jr/ob/comp/ObjectComposer.class
+SHA-256-Digest: h83WZnH5qYw2TXIhY7YqwtcAz/igWlMVXmEPWzoON0g=
+
+Name: com/sun/media/jai/codec/com.sun.media.jai.codec.properties
+SHA-256-Digest: cL2q9KlNtIWgSIoS2V0MmSQVh7pncACvK37bkiibK+E=
+
+Name: net/java/balloontip/positioners/BalloonTipPositioner.class
+SHA-256-Digest: GIR/mq3xLo+qLJx2ZlYgLLiwJtqhPwqreh/zoWC/4wY=
+
+Name: com/asprise/imaging/scan/ui/util/ic.class
+SHA-256-Digest: mSi4XeBRqa9ZJnSqZB7Wf3O8bRP2MVYOsDidGZdUqrU=
+
+Name: com/asprise/imaging/scan/ui/workbench/ig.class
+SHA-256-Digest: 7dmWsuqKP4aCLkCJ2FoKVgReQvnEH4e9sMasi24JGl4=
+
+Name: com/asprise/imaging/core/scan/twain/TwainConstants.class
+SHA-256-Digest: CRyFIMAv2r/TtGhQ4GOXNSvEZYEHC/K8ILxDNdsKEfY=
+
+Name: com/asprise/imaging/scan/ui/workbench/iie.class
+SHA-256-Digest: z+VmQcc17yPxOzxG4q71bmUi8LnBxyjtrO5j53iVNl8=
+
+Name: com/asprise/imaging/scan/ui/workbench/iqe.class
+SHA-256-Digest: vlQWH38YYhi/iD6GWc9x4qn+oIzJvd337wlteHwBR8A=
+
+Name: editor/icons/Rotate16.gif
+SHA-256-Digest: QrmfYYUXfP+eKUMNCLUIjh45xGKHuaLbP7SIT9TVkuw=
+
+Name: com/asprise/imaging/scan/ui/workbench/AspriseScanUI.class
+SHA-256-Digest: 6j+NvQqHVyeGlKy9NmFOYNlOZQIuScWrc2AO09nuoO4=
+
+Name: com/fasterxml/jackson/core/JsonToken.class
+SHA-256-Digest: HsZ/opf5KLwjnXicD5h+tfoLoLi5tMy6gPfPInUCu1Y=
+
+Name: com/asprise/imaging/ui/image/editor/ir.class
+SHA-256-Digest: 1kujvHCqwzgPFnpGIXwbsMCchF0m5HHUQYVginhzDKA=
+
+Name: editor/icons/ZoomIn16.gif
+SHA-256-Digest: d8qNNVOgwbLb+MPcDEkE7f9kFLmWQt/xvST/gnZOV0w=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ii.class
+SHA-256-Digest: cHkmjdqYKkw+ZVkZF0Z9HxVHaaHGMdd3UhIdM3+bkUo=
+
+Name: com/asprise/imaging/scan/ui/workbench/ite.class
+SHA-256-Digest: sqgBRD/pJYMmHGBR2LS9cjc8b3NjPXNUqv5ssHTZcJc=
+
+Name: net/java/balloontip/BalloonTip$AttachLocation.class
+SHA-256-Digest: JVufWqbfMDgTTXSw26oA1NTy/jU5R1N+S0630SsVFR4=
+
+Name: com/sun/media/jai/codecimpl/SingleTileRenderedImage.class
+SHA-256-Digest: aPmbWv/XTzIXHkDmITrIday6EXcDDD+RNPQrX0165AE=
+
+Name: com/asprise/imaging/scan/id.class
+SHA-256-Digest: J6WnqgmzgUaXoaQMfoNZRVTsg61xQemey/miy0+LJmU=
+
+Name: net/java/balloontip/utils/TimingUtils$1.class
+SHA-256-Digest: 3WhlJV0Pge+CsfgjXMj7aUIQ1eaS25Y6U4CfN0vFG/o=
+
+Name: com/fasterxml/jackson/jr/ob/PackageVersion.class
+SHA-256-Digest: yuERPC6An87okAl79blVt77jSWzP/0Xa2IlolIXBAeQ=
+
+Name: asprise/logo/128.png
+SHA-256-Digest: rrSY6+QK5Pa48EKBwccSBNvDVXTXlEqulaPHDagVY+4=
+
+Name: asprise/logo/32.png
+SHA-256-Digest: PqTrYeUV9cFR+ttCleD3TLRC8ur1gYpxzzRkaf4yVkk=
+
+Name: com/asprise/imaging/scan/ui/workbench/ibc.class
+SHA-256-Digest: Fa3UaW0gDBAjgmligT/b//ji+uAM3hJGajjeuRb6ctg=
+
+Name: net/java/balloontip/CustomBalloonTip.class
+SHA-256-Digest: PpUWQQqm2X1Ka1roaLPia/0Qdmuk9Xe7fM2wxxei8F8=
+
+Name: com/asprise/imaging/scan/ui/workbench/ijc.class
+SHA-256-Digest: dOOdNfyLJBDcAR7rN99nilibiVa8DTPmJeokiQxu7QY=
+
+Name: com/asprise/imaging/ui/image/editor/ixb.class
+SHA-256-Digest: GYbjc84q7s7neP7Mqc1tg0zZT0YYyINTItx3OFeszvs=
+
+Name: com/sun/media/jai/codecimpl/WBMPImageDecoder.class
+SHA-256-Digest: OBlND43hrygigwyR2G0uxC74C9MRdqvEj9cPaBx5Je4=
+
+Name: net/java/balloontip/images/close_rollover.png
+SHA-256-Digest: 97nNg+wIohZgS8ejkAABFptFK/lY436qIyfggZRsTRw=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$Remove.clas
+ s
+SHA-256-Digest: vD/v4LC9F0D5jT2pjufMbTCg208L9nCmiXPb83GUsgk=
+
+Name: com/fasterxml/jackson/core/PrettyPrinter.class
+SHA-256-Digest: K0qRXSIdUoqxuv0U6H7S5RVIPcfiEnYAuEctm9dQ604=
+
+Name: com/asprise/imaging/scan/ui/workbench/iwd.class
+SHA-256-Digest: Eja8RoIbKm0x0qmXSyup8pzrQ5fHByjs3mDuWTQcjuo=
+
+Name: com/asprise/imaging/scan/ui/workbench/ile.class
+SHA-256-Digest: WuVljplPLePacGHnMwENAjhOXMx87KCb0qPza7Qb/yQ=
+
+Name: com/asprise/imaging/scan/ui/web/ib.class
+SHA-256-Digest: Q4iUYGFMRXpI/JHWfqlDFBplLThJ4vyFJ4QkC0VC6iQ=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ihb.class
+SHA-256-Digest: AEUJHARKuC3EqgNhJstdG0LzbFvmaVlbyskZw+Pw+B0=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ij.class
+SHA-256-Digest: r4wdXsxteM0KVRGgjAUekQbcYSmuzRSiOc4zoe+1eh0=
+
+Name: com/asprise/imaging/scan/ui/workbench/ide.class
+SHA-256-Digest: F7lMUASyTXPfyw7r4kyvbHrBERbZHoM0xqwXqtSZpAM=
+
+Name: com/asprise/imaging/scan/ui/workbench/igd.class
+SHA-256-Digest: kzJhqS/tszZ/jUHjd0gpewFdoWrD6EsGmvmAeNMWJ1I=
+
+Name: com/asprise/imaging/ui/image/editor/ic.class
+SHA-256-Digest: MUz/HQ3YHFnBCwgmnCX9AdIP8TfXPo0EFen5wxNPTg8=
+
+Name: com/sun/media/jai/codecimpl/FPXImageDecoder.class
+SHA-256-Digest: 56gme9ieM5EItPgNn+QRN+ojLxEaNBOj/sAawU7B6u0=
+
+Name: com/fasterxml/jackson/jr/ob/impl/ArrayReader.class
+SHA-256-Digest: 2M8Yy4UQs05OIkngpy3yzggRBg2DKbA/QFIknwrqt3w=
+
+Name: editor/icons/Acquire16.png
+SHA-256-Digest: DD8twx6ixBg20OmyfvR805yJ8yooehcEdGT9o5e6kvI=
+
+Name: com/fasterxml/jackson/core/sym/Name3.class
+SHA-256-Digest: TWPEsXr1l3dPmZGU9SfpwEvQdD5HXer7a5Pz1dxvcTg=
+
+Name: com/asprise/imaging/ui/image/editor/imc.class
+SHA-256-Digest: +Qotr6Gbr9Uy8C22tcSWgMhXeN5zUQ9/ydstG+X0W9o=
+
+Name: com/asprise/imaging/ui/image/editor/iec.class
+SHA-256-Digest: mCjWFvcLYlMXX8LmMiGV7W5tVqQFTEVZuLVmIEpvGas=
+
+Name: com/asprise/imaging/ig.class
+SHA-256-Digest: hg21EVctG4No7lbjje5PF9TpJo0wGjr45/YZpY6EEHg=
+
+Name: com/asprise/imaging/core/ResultImageItem$ImageLayout.class
+SHA-256-Digest: FHxjxZ4it7BHKFW2ctrxMgvYS9ioUc5QDaAJloK2vl0=
+
+Name: ascan_trans_zh.properties
+SHA-256-Digest: LhcjeBv2huf+yKgX/v0RvFdZVb/OaSnT9jm8fsw1uUI=
+
+Name: asprise/demo/bw/pdf-20.png
+SHA-256-Digest: 6CTX0JoOzOs08sek9A+z9MluKiLczD1E1e/OlyxBvnQ=
+
+Name: com/asprise/imaging/ui/image/editor/ifb.class
+SHA-256-Digest: WxcRjR6EKb4B8owg2zm1XrkB6EObkiCKvNrs1LmJuvg=
+
+Name: com/asprise/imaging/ia.class
+SHA-256-Digest: IemXvAnzRawxHSn+oSV2SBYUUP1ZtnYAycmlnMunC4M=
+
+Name: com/fasterxml/jackson/core/io/SegmentedStringWriter.class
+SHA-256-Digest: 0TQYAeBfB/C4JQ4GrSqkNULQQlT2tYFt0NlCC0fqYrk=
+
+Name: com/asprise/imaging/scan/ui/web/ijc.class
+SHA-256-Digest: nC+GmpWRMI9hmlfUlnLRmOrBy1GOu5mboN3AHJAyrto=
+
+Name: com/fasterxml/jackson/core/TreeNode.class
+SHA-256-Digest: HNUd9ULqN+mn+oq/oB2pzV+f5JvqVaxTZW34fr0X5h4=
+
+Name: com/asprise/imaging/scan/ui/web/itc.class
+SHA-256-Digest: VFqYD2RbN1ZdWWsGjxKDV957qZa3rUcD577vmeZZdmg=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ipb.class
+SHA-256-Digest: OzqJwKaCdeErcALotxbTib53RPZY/7YWDQ9/IcA6BkQ=
+
+Name: com/fasterxml/jackson/core/sym/Name.class
+SHA-256-Digest: zwpifLqTKN4U/fMno6G0PcrLefuV6k8coz0uw5/dO2Q=
+
+Name: asprise/doc-new-sep-32.png
+SHA-256-Digest: rkrAFmMXD7qaDqOxMfLzo2lR5XK0Ln/U4lA78MX0xoE=
+
+Name: editor/icons/Color16.png
+SHA-256-Digest: o4GyGW8QVhgz77apd17lRNPOqeNK6fQfXTnQtvKpLT8=
+
+Name: com/sun/media/jai/codec/FileCacheSeekableStream.class
+SHA-256-Digest: WruR1+PX9AN80sM6Ev45iA53zw+/AOXhUq3e/syYvMM=
+
+Name: com/asprise/imaging/ui/image/editor/ipb.class
+SHA-256-Digest: kX7kc5O8xUf1PsMercyJtB7xsPYSRzeX2p2MDI0CTg4=
+
+Name: com/sun/media/jai/codec/SegmentedSeekableStream.class
+SHA-256-Digest: n8mTweI1Pv4CmZGR3amJ7NyQZ+zQLwrz3N6s1Es/rUM=
+
+Name: asprise/scanner/128.png
+SHA-256-Digest: AFxfoqH54kQYSd7TCak5uEJ6z2bFvS4oJeZoK/FI/gQ=
+
+Name: aws_lic_mgt/web-ok-16.png
+SHA-256-Digest: JFnKPkwluyDrzqIaRX8Q7w6Af1t7Qt6TxS6CKQFatgs=
+
+Name: com/asprise/imaging/scan/ui/web/iz.class
+SHA-256-Digest: 5i+/n/ZNUpGvs5mjEHBN1G2OA7cHr4sPaLrqpHP/KYA=
+
+Name: com/sun/media/jai/codecimpl/fpx/Property.class
+SHA-256-Digest: ecgI0LUBRJvdy987L2KICCXqZs7AI5u/m3PabO25Fyo=
+
+Name: com/asprise/imaging/scan/ui/util/ThumbnailGenerator.class
+SHA-256-Digest: /HsenEiTsj4qx0llcFzMoyonChtzYdsp/pykLTj6DKw=
+
+Name: com/fasterxml/jackson/core/format/InputAccessor.class
+SHA-256-Digest: bnBHPutByxkYyl9mAmmOYEDbFSU/uAMLeYG2vjNQnBg=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/io.class
+SHA-256-Digest: QZPm3gDJhLEOTmZ0YAoMCBB9ot7O9ehfdMFWSguZJyQ=
+
+Name: asprise/page-blank-32.png
+SHA-256-Digest: wawDCElCMt8kpraytjInaO6SJ9kVJPKdlMra5kn/voI=
+
+Name: com/asprise/imaging/scan/ui/workbench/itd.class
+SHA-256-Digest: vfpcOI6vTgDVdK7Ck+3w6k+EeXBuzSGWJCv3GjUE8Ig=
+
+Name: com/asprise/imaging/scan/ui/workbench/ird.class
+SHA-256-Digest: U0tA7/Y/FedIEl7lFUH2G05ZvYfrlYAO0+aPymP791w=
+
+Name: com/sun/media/jai/codecimpl/util/DataBufferFloat.class
+SHA-256-Digest: qM9K5BRnJD5p2JcX7RHdkHJeeRHfBfRMU6OnesdB0fk=
+
+Name: com/asprise/imaging/core/util/system/LogAdapter$LogType.class
+SHA-256-Digest: pPdvN5feQ7sjoM3v3FUfRczDxHnbhtwkkH7kM7ikQp4=
+
+Name: com/asprise/imaging/scan/ui/workbench/idd.class
+SHA-256-Digest: +2ADO2HqexRGBUXngZ7qtd7TFPUMLMdFGsBxwZ034hs=
+
+Name: com/asprise/imaging/scan/ui/workbench/ibd.class
+SHA-256-Digest: zHs8ZBp4dvD7itxHZZKmMteImSbNN3pb3ryQJC2OQrI=
+
+Name: com/fasterxml/jackson/jr/type/TypeResolver.class
+SHA-256-Digest: /YoaC7eRmSb3SPbanoY1zepsPrOrp8kM9R7EvBGyyeQ=
+
+Name: com/sun/media/jai/codec/com.sun.media.jai.codecimpl.fpx.properti
+ es
+SHA-256-Digest: qvnXCmZQgg2UPoZ3HyxiHtY2T1ttwSD82mhRq3T3vLY=
+
+Name: com/fasterxml/jackson/jr/ob/impl/MapBuilder.class
+SHA-256-Digest: zbtY4sl7vxT00QxDrPxmwpQnW7dHlGOPh1SVBh76uwY=
+
+Name: com/fasterxml/jackson/core/json/UTF8StreamJsonParser.class
+SHA-256-Digest: WPJmYMRsTid2yuxddnOHcfgvtF2d5nTkEcUwik9Dzvs=
+
+Name: com/asprise/imaging/scan/ui/workbench/isb.class
+SHA-256-Digest: Lc2JaM6kBQMzTeKoj1GMWi2o7Y2o8XKZrsRFILTqRCc=
+
+Name: com/sun/media/jai/codec/FileSeekableStream.class
+SHA-256-Digest: BA0xiEc/py5FIYVPUU13xYptp7sUghRrXE7DKPOnhEA=
+
+Name: com/sun/media/jai/codecimpl/PNGImageEncoder.class
+SHA-256-Digest: MoK52KMYhuuNp+/8L1LKvc5MYHEFXVzjifkS9BqGEEw=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$NodeCreate.
+ class
+SHA-256-Digest: BK+dxQGSeb+5iy/yTWI0LnE6iQh20TA8pcUV3apUoPo=
+
+Name: com/asprise/imaging/scan/ui/util/id.class
+SHA-256-Digest: 8N5YJp7inj57ftvEU4hmuOSvRkpiY/Tbrs1dED9HLuM=
+
+Name: com/asprise/imaging/ui/image/editor/il.class
+SHA-256-Digest: xgHvIb66nPMAfVcCpgwbSSiBu3W/h+MAMaUR2mjrM+s=
+
+Name: com/fasterxml/jackson/core/json/JsonWriteContext.class
+SHA-256-Digest: vbwt3kdQYzq0JyOjbD2G2LG/S9jvJkEk2CJmoM9Gdz0=
+
+Name: editor/icons/About16.png
+SHA-256-Digest: T86+87gatfdcv4nufSc2pqjskSITDnwF8WSwXWMXzDU=
+
+Name: net/java/balloontip/styles/ToolTipBalloonStyle.class
+SHA-256-Digest: DjlAbV6+Uj5kWaE6rLw0g8OgaXmWr7BrSRrE7sjUFn0=
+
+Name: com/fasterxml/jackson/core/util/TextBuffer.class
+SHA-256-Digest: nUQkgmXQx4oD3s7GtWQ/g9xm7t7TYKqax+bHnpB+BsI=
+
+Name: com/asprise/imaging/scan/ui/workbench/ihc.class
+SHA-256-Digest: QNujhgGrtNQaKqVzIrqDzKZDcDyxIvQCYP21xdBuCA4=
+
+Name: asprise/remove-16.png
+SHA-256-Digest: O+Wj1NIaB0DQV/OMnvV/0Z7ELsR9XAfYlIA0A2lZoSk=
+
+Name: com/fasterxml/jackson/core/util/VersionUtil.class
+SHA-256-Digest: HNAED0jFEy/NZLUTp/L10EYGpmDHetsjfCaXDNXZlt0=
+
+Name: com/fasterxml/jackson/core/util/DefaultIndenter.class
+SHA-256-Digest: eGLKUoubCTSLhPgW0ayJTPpW9z72GDNeXS5nKWK+0Y8=
+
+Name: com/asprise/imaging/core/scan/twain/Source$CapValueContainer.cla
+ ss
+SHA-256-Digest: NDBxizmDCkslnX8342qBGNEzRhoZLKm9rAg4SpTxQOc=
+
+Name: com/fasterxml/jackson/jr/ob/impl/TypeDetector.class
+SHA-256-Digest: AsRYaPnZa5K9vUNZSCKlkl1BHylfAE3ub117IkIwWSA=
+
+Name: com/asprise/imaging/ui/image/editor/ivb.class
+SHA-256-Digest: nGTQNxcl5ylmBdBfsMcn0QG44CCioJQ4BZ+W+syLTdQ=
+
+Name: asprise/demo/bw/file-htm-128.png
+SHA-256-Digest: H+S6IgNL+7QsNLspnkpB6vl3Xc+SA0tOhwUl34nObCg=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/it.class
+SHA-256-Digest: iFiDLKpXMcifFw34PMvmNAcbc62KMh2z31DuEswj2q4=
+
+Name: asprise/demo/title.png
+SHA-256-Digest: oKHhKVlDeKufGWhzSE20RSHOyZ5Mmp1jq24iMBWFn0g=
+
+Name: com/asprise/imaging/scan/ui/workbench/ine.class
+SHA-256-Digest: yK43k22jlZlwrdm8xQHZU4dAxZhM8vI6CBoZ91IUk3I=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ijb.class
+SHA-256-Digest: Xd8hfKwb52jrOYCz0/VUMZUMMBNrGUEwi0Vi9BGs/AI=
+
+Name: com/fasterxml/jackson/jr/ob/impl/DeferredMap.class
+SHA-256-Digest: 3zzHX+tapoLiC1ppLGEMEJomtwBnCFGmGP1ot/nioZ4=
+
+Name: com/fasterxml/jackson/core/type/package-info.class
+SHA-256-Digest: LSKmr1dBJwxoYQOJr6fm2ZNFUjqxteRNXUsxrwX/Eww=
+
+Name: editor/icons/Web16.png
+SHA-256-Digest: HP9mfbsSTZYBSjKNBSSHpryUkLXXjPDrBZ5SKA8mrZ8=
+
+Name: com/fasterxml/jackson/jr/ob/impl/ValueReader$1.class
+SHA-256-Digest: TvEh3+Qhows4nQ/H967hRquzKVxsBur6i8Y8BJeGaPE=
+
+Name: com/fasterxml/jackson/core/util/ByteArrayBuilder.class
+SHA-256-Digest: qkYfFAwyvd5D6Qt/qTPRRucdRvhbX6E/udtB9OLHpm0=
+
+Name: asprise/demo/bw/help-20.png
+SHA-256-Digest: UUQvuiRh5aqhzzR9lF6ekkreFb0/jJn2tZNK9Yi4q4g=
+
+Name: asprise_editor_trans_ja.properties
+SHA-256-Digest: ATkDqqBBJqIypfDXcJtoPoJ+jV0iqz3c/OVUyh5rF74=
+
+Name: com/asprise/imaging/scan/ui/workbench/iv.class
+SHA-256-Digest: QYvehl1iJ+DBGXEM+ahgbESvD0uJcG6+AtStecjwWus=
+
+Name: com/sun/media/jai/codec/FPXDecodeParam.class
+SHA-256-Digest: 9Rw4omMXs0qlFws6rpS+KEkPQvX3z0INSOeXdH4qFDY=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/in.class
+SHA-256-Digest: jERjIoX0uUGQeyuws5VRbYrdksn4wuyWgsTICGQaCXY=
+
+Name: com/asprise/imaging/ui/image/editor/ig.class
+SHA-256-Digest: oY1FdkWmIH++zKDVl0qqkMQo3DzagY/8NBAiwfz97v4=
+
+Name: com/sun/media/jai/codecimpl/ChunkStream.class
+SHA-256-Digest: pwcYoS0Tet27XHQCckDGCptjxzyegR0VfYEYMEqGed4=
+
+Name: com/asprise/imaging/scan/ui/util/inb.class
+SHA-256-Digest: gr/nZGw9yxCYegsFrh7zyvBs0kvZ86SJuFZT1KjvHwI=
+
+Name: com/fasterxml/jackson/jr/ob/impl/AnyReader.class
+SHA-256-Digest: 2V+XZfTh6cusBjPcC9dsdX9pOxMEGhrQ7vbw4evVmew=
+
+Name: com/fasterxml/jackson/core/type/ResolvedType.class
+SHA-256-Digest: fUL9urdV9MYgnDwm4W++UvSzSbHyz436z3rTY4YmzFQ=
+
+Name: com/sun/media/jai/codec/StreamSegmentMapper.class
+SHA-256-Digest: 8W55B2XoTsJDzNhsZauZ/8HaCYl0172Cw+ho881NUBA=
+
+Name: com/sun/media/jai/codecimpl/PNGCodec.class
+SHA-256-Digest: 8iwGuNuXqfTU8MuaGCZLGzKcD8YZQ1D04Al9B54vDCU=
+
+Name: net/java/balloontip/utils/FadingUtils$2.class
+SHA-256-Digest: kAOPWmRFjpoOMxZnfUuZtwrPImOG6wx9Z2mR0sMObyw=
+
+Name: com/asprise/imaging/scan/ui/workbench/ixc.class
+SHA-256-Digest: pOqx0Nx+p/SMq7IqmMv76AzmrH6n+O3nQbaQ8rtKOsM=
+
+Name: com/sun/media/jai/codec/ImageDecoder.class
+SHA-256-Digest: nKvXbFkBeyVyeUdPVQHi9Kf7rlZIOGmjvlubyeZmH+o=
+
+Name: com/asprise/imaging/scan/ui/util/iib.class
+SHA-256-Digest: dFSXKiLyte/DedCsScpIinmT2v2i5Q7K1ac0BAXSy1Y=
+
+Name: com/asprise/imaging/scan/ui/workbench/iz.class
+SHA-256-Digest: nfHcpyvFiDcqgQ7BcnR4LEYB+jwqIbB1XBT8l+Pi5d0=
+
+Name: com/asprise/imaging/scan/ui/web/iv.class
+SHA-256-Digest: YU2HAAGq+EO5OzeojosCBdUI5jp29nOPUcQEzTXCyRw=
+
+Name: com/asprise/imaging/scan/ui/workbench/icb.class
+SHA-256-Digest: EdsXhKGPPc0GDOyNZQXtfYwvZ1ex/ydqQggWUAMRmTU=
+
+Name: net/java/balloontip/BalloonTip$10.class
+SHA-256-Digest: TgnAROgiWtQMsMF+3ZLyOTAqZISSZhryQksKIudptqA=
+
+Name: net/java/balloontip/utils/ToolTipUtils$ToolTipController$1.class
+SHA-256-Digest: 8Y3AgI0P4pEOF9bhT9CGrbioGOo+UMmz2ocRmTPChKM=
+
+Name: com/asprise/imaging/core/scan/twain/CapOptions.class
+SHA-256-Digest: fZ3BKlj4JQZb5uw+ydJzPQRqZRbN8syNXfYUpnt+TPU=
+
+Name: com/fasterxml/jackson/core/type/TypeReference.class
+SHA-256-Digest: dOweCefb/lgvhZvm6ML75AXZGG/cwubQymUshO7odrs=
+
+Name: com/fasterxml/jackson/jr/ob/comp/MapComposer.class
+SHA-256-Digest: EFkj6fdp+5EIOi+s9l4QtSLeOzCtJzkq+Xp1W/Ce/Ec=
+
+Name: com/fasterxml/jackson/core/io/NumberInput.class
+SHA-256-Digest: YPZQwWrnvQDcmpejFo9uvtHTxfeajUCK6YproQZZwfg=
+
+Name: com/asprise/imaging/scan/ui/web/ijb.class
+SHA-256-Digest: KPrJlgDb85N2WrPiLuCt8pL+rxiBo+R3YMiH1r/Kiw0=
+
+Name: com/asprise/imaging/scan/ui/util/ii.class
+SHA-256-Digest: E5KCfqtxDbLILYR6yZEkyvb7bAB1YK4gpwMj8KR8RFE=
+
+Name: com/asprise/imaging/scan/ui/web/izb.class
+SHA-256-Digest: 8wgNT+FXDLV4O2VOz8vjcbSHO2a5QTvMRW+CCw/4axM=
+
+Name: com/asprise/imaging/scan/ui/workbench/ia.class
+SHA-256-Digest: amdrA8VvcV3lON3gRU4zI/Oex2oBSm+Py4fArGGf1Gc=
+
+Name: com/asprise/imaging/ib.class
+SHA-256-Digest: hz0y84cIE1aMdFGxdyDZuRa3HpBrnwPAqFX6LBLAiQg=
+
+Name: com/sun/media/jai/codec/SectorStreamSegmentMapper.class
+SHA-256-Digest: Lk+FRrEe3PZbuk43xAFr5Zp+codUwf0C0OxhcJJ3KLQ=
+
+Name: ascan_trans_ja.properties
+SHA-256-Digest: a75DrPNUR0l1C2hxghNQH0II96bx25wPBBoHWTTEP34=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$2.class
+SHA-256-Digest: ZdE/PLjau9JpdtF1h1cjwoBnVkEdB4cnm17FQXdxZtI=
+
+Name: com/sun/media/jai/codecimpl/JaiI18N.class
+SHA-256-Digest: Fc5KXVJ4StIocgL42kBP0RuUxicTmI+r9wiyeo6EK08=
+
+Name: asprise/demo/bw/eye-20.png
+SHA-256-Digest: ZBCOyYD3vtKhcv8Q36ZKAAQWaaXlkE2y6VgG5nIFVz0=
+
+Name: com/fasterxml/jackson/core/json/DupDetector.class
+SHA-256-Digest: S/Tc4c4VrNy/wXtNm7pTRSvOIp6n+OaCNhq09coFFdk=
+
+Name: com/asprise/imaging/scan/ui/util/ih.class
+SHA-256-Digest: ihj6O6VwVLPrYb3VTt13wVIYPMTgopVoIGbaZty+FMc=
+
+Name: com/fasterxml/jackson/core/util/DefaultPrettyPrinter$FixedSpaceI
+ ndenter.class
+SHA-256-Digest: w1eA/PeS6G/z3pryhWtbPszHDcORLhnYhhGTDFe4d9I=
+
+Name: com/asprise/imaging/scan/ui/util/ig.class
+SHA-256-Digest: M9vjtU/zoM1ZmSw/ERs4NWXEOVaXX5DGh6iGRBvRMfE=
+
+Name: com/fasterxml/jackson/core/io/NumberOutput.class
+SHA-256-Digest: 878srFbuQdX1D9jidB2WuBVhcjIgiiLcWuZJbyVighg=
+
+Name: com/fasterxml/jackson/core/base/GeneratorBase.class
+SHA-256-Digest: LSBUNToZhxQjjWEtswhD7Dr9wpTGntLxjoTGDgmXz1g=
+
+Name: editor/icons/ZoomOut16.png
+SHA-256-Digest: mBUfYNXr12YQ4jgpQkRbIqydFbeE77YCza8FZdbu5Q0=
+
+Name: com/asprise/imaging/ui/image/editor/ii.class
+SHA-256-Digest: z4pgRKQwYOHYR8l9mdiSFX8boiMQ8oppyANXizlrKGY=
+
+Name: com/fasterxml/jackson/core/util/JsonParserDelegate.class
+SHA-256-Digest: gzg469FtXeU4NZ5PgfJjG4fvLImYAXWEdMuUrVRUdEo=
+
+Name: com/fasterxml/jackson/core/util/Instantiatable.class
+SHA-256-Digest: yNMlKVGzbaN1YUMSwVwticOHvXKwqttzl2dJOEwdcIk=
+
+Name: com/asprise/imaging/core/util/system/SoftCache.class
+SHA-256-Digest: 8qox3f/5UKWLfmHUr0pQuYAg78xFb8cY1XAP0Gz2y/c=
+
+Name: com/asprise/imaging/scan/ui/web/iob.class
+SHA-256-Digest: mXd4zAmE5qCMhMVciLaeiHHwAxnVzF6XdabCdE83g/I=
+
+Name: net/java/balloontip/positioners/LeftAbovePositioner.class
+SHA-256-Digest: t1mwwmsdQtkPhsgndK7rMIJKin5TCE05yUTofDveW/I=
+
+Name: com/asprise/imaging/scan/ui/web/idc.class
+SHA-256-Digest: qFOSPsGgf3Okw7aONE2vaMnOfG7CTVplUjNaEkru+8Q=
+
+Name: asprise/demo/bw/web-24.png
+SHA-256-Digest: 2iemt/bMYq9aEFbhBx7Bvzx0gQtDofl3jee5cLYYv0g=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$3.class
+SHA-256-Digest: fUfP8BWkiifNPo6Czths/ES2khLioA3jOyZ/7JXyidc=
+
+Name: com/sun/media/jai/codec/ImageEncodeParam.class
+SHA-256-Digest: esZ4Ht9G4NByIxxT088C33iDAcNdwFGZzPp6qLJ9uSk=
+
+Name: com/sun/media/jai/codec/TIFFDecodeParam.class
+SHA-256-Digest: e32ZFZHPtPikUtJlwdZlmi/gXjd3uAQhOrQZKd0f+tk=
+
+Name: com/asprise/imaging/scan/ui/web/iu.class
+SHA-256-Digest: Izsh8BXv+d73WgMyaDEbICfco1UyxzEv9GfiNeylxzQ=
+
+Name: com/asprise/imaging/scan/ui/workbench/inb.class
+SHA-256-Digest: 9CGWJ72JSSOxpkqzqmjZPj0+zG7DYN3/6eMky+fApC0=
+
+Name: com/fasterxml/jackson/core/io/MergedStream.class
+SHA-256-Digest: 5GU/IV7pN5XoOHP43tmEz6LRFsSG8eJ97vfVwVXegbc=
+
+Name: com/asprise/imaging/scan/ui/web/ia.class
+SHA-256-Digest: 0ipRX+tB+rVpIrRgKklGz5bPmXqKnb1bFhjMPGeHYTk=
+
+Name: com/asprise/imaging/io.class
+SHA-256-Digest: goQik95GIVSofZfOptQW5YvPV+P0tnW3bIubbWDy45k=
+
+Name: net/java/balloontip/utils/FadingUtils.class
+SHA-256-Digest: B2jBeBc17a7mlkdDZaiOGZ08FihHMCRoAxvJv4YQ0Ls=
+
+Name: editor/icons/Use16.gif
+SHA-256-Digest: zwOnPP0GoNPgmzjAnBdwuH1m9s0mr81Q/uRCKf/KNc4=
+
+Name: com/asprise/imaging/ui/image/editor/iib.class
+SHA-256-Digest: sx3kCYOmSHPYYXJtIEmwiqDFS8aRhq0MAx0sPq9Id7g=
+
+Name: com/asprise/imaging/core/util/system/ArraysForJava5.class
+SHA-256-Digest: n4WViY/ai2TgHbmKA8h1XISqg6boRx+C0IYWqOCoUEk=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/isb.class
+SHA-256-Digest: wk2x/8pUiTeZscIJKRL6kEN52zxQtlxNv1rQTwlcDME=
+
+Name: com/asprise/imaging/scan/ui/workbench/iqd.class
+SHA-256-Digest: OXv4/kmAlebwPs5Ueu+yOdG1y4A28/AtBW/l3BkAr3c=
+
+Name: com/fasterxml/jackson/jr/ob/JSON$Feature.class
+SHA-256-Digest: zwYEUVDcoV5avOTgiHyHX4e5hzTahj0DNLGSq5GS0KY=
+
+Name: com/asprise/imaging/scan/ui/web/iqc.class
+SHA-256-Digest: 7QQFn/pwyfKfSwLZ17/cSJ6o8G/5hdqGdqchGhuzZWo=
+
+Name: aws_lic_mgt/user-warn-16.png
+SHA-256-Digest: /x4cucIlZ8swa8EuNAaqa82j/8GoOGkCuZRY83KB9eo=
+
+Name: asprise/demo/bw/view-20.png
+SHA-256-Digest: UB0x6cU1ZVqtXJCxzM43amHxY0yJ6nNeKEzUPiSIMcY=
+
+Name: com/sun/media/jai/codec/JPEGEncodeParam.class
+SHA-256-Digest: 9Fzp+7/+0KPNTpo66dgMcdteH9DWB7L5FLNqGeW87Yg=
+
+Name: com/asprise/imaging/scan/ui/web/iic.class
+SHA-256-Digest: ACBHeE6O5f4SsMkEf6qiQYmEe/sIZmgnJzwbfviE91k=
+
+Name: com/asprise/imaging/ui/image/editor/iab.class
+SHA-256-Digest: 5Td+9oRxkZXxAnPc1QovRG1J8a7F+0xd9BdxplfzIv4=
+
+Name: com/asprise/imaging/ui/image/editor/iub.class
+SHA-256-Digest: Awi7Qp5BBrCQZmRN6rEttymc/C/0J7a7DBvHgLrTIao=
+
+Name: com/asprise/imaging/core/Request.class
+SHA-256-Digest: KfgyDukov2CtagIPBDfhtZVp/yLnKJxEX9vRzwvX23c=
+
+Name: com/fasterxml/jackson/jr/ob/impl/BeanProperty.class
+SHA-256-Digest: 9PblmaX7MuToE6vkBYe+dn50VZFct/z/Skz2zJQpPJI=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/igb.class
+SHA-256-Digest: Hd5EjV8GsFImyv2Gf3ivE7ZY+KxCAQYWu4vCCSqeREM=
+
+Name: com/sun/media/jai/codecimpl/BMPImageEncoder.class
+SHA-256-Digest: 70j2e8hBH1AngGlX08kk23TMZB/XJR5NiNIBTJ1mblA=
+
+Name: com/sun/media/jai/codec/JPEGDecodeParam.class
+SHA-256-Digest: orJ6kFFizrkEJSYGX+E8466EyN+Yrke9otFCYLRzxaM=
+
+Name: com/asprise/imaging/scan/ui/web/iec.class
+SHA-256-Digest: J7KjIDqo+SeI7oS88ysmJMGTBFbJtW0bKVS/wdGu04s=
+
+Name: com/fasterxml/jackson/jr/ob/impl/CollectionBuilder$Default.class
+SHA-256-Digest: aiw7Cj20/Tg6KoLtXlUrB2BJFr+n4zr2izt+LPxU2tk=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ia.class
+SHA-256-Digest: XJFoICYUTYUIJe50LYF998Kv0U4k13vPSaKdd588+sk=
+
+Name: com/sun/media/jai/codec/SeekableStream.class
+SHA-256-Digest: qggcKxKj0pQ4Z00dN5R9Sa64FbnB4r1SYw+k8Lf2F3E=
+
+Name: ascan_trans_fr.properties
+SHA-256-Digest: Bsbi2mhAOcbRsGCkqHk0uzs3ppHt2eHDJTls3mNd370=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/iob.class
+SHA-256-Digest: QWy4isV65zPBTgngy3Vs4hqPhQ4KBsv/gmxOk2gKJcM=
+
+Name: com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer$Bucket.c
+ lass
+SHA-256-Digest: uAgDyEp1h4+YcjwgpHmGgksbil70xNJmteyEs5RkECo=
+
+Name: com/asprise/imaging/scan/ih.class
+SHA-256-Digest: TnbKRpftTIua9RtdljGxWVJS6kLspLrWn47BUNzD6G4=
+
+Name: editor/icons/Open16.gif
+SHA-256-Digest: C0aWIBw4L3QpnlmX9tIAOct5uWD0AQbb78oJ4HghYDo=
+
+Name: com/asprise/imaging/scan/ui/util/is.class
+SHA-256-Digest: RPhC4L/pzlGLdH1I0bwYIS140W49bEmGmuD6Q3tVEEM=
+
+Name: com/asprise/imaging/core/Result$1.class
+SHA-256-Digest: ZX20bdJwAe3mJVnxmg0y5zajRG33dcfVNj7B7vgQHDc=
+
+Name: net/java/balloontip/TableCellBalloonTip.class
+SHA-256-Digest: 1Zu63U4t0eVUXcv6fL4B2M/Ku8Jk0dJ6kAp1gTE3f4A=
+
+Name: editor/icons/ZoomOut16.gif
+SHA-256-Digest: CplZYqxo906e8y8TP8wom039P3KViU1iu7r1lDTRICE=
+
+Name: com/asprise/imaging/scan/ui/web/im.class
+SHA-256-Digest: l9/bUNfTBp8fKJq65N0DkRUpXtvRzkS5HWlb7fMXruE=
+
+Name: com/asprise/imaging/ic.class
+SHA-256-Digest: GuJhWr2+L/QDdZaM1B73/1wOaoXG5GC4fUrGGqYNA38=
+
+Name: com/asprise/imaging/ij.class
+SHA-256-Digest: 9Rhbz+f+pjdWGpI+FMd/WPTi+u5QfmCPpWOJbV2ZJ+c=
+
+Name: asprise_imaging.dll
+SHA-256-Digest: zT+EufdB6eudtLd6wOPas6IwShvMcjBlHdTdTgc8twk=
+
+Name: com/asprise/imaging/core/prefs/XmlSupport$1.class
+SHA-256-Digest: yvzhf0HS2eHuSE8HFTFEi3VHU2pVrCHXuZkMba4e6/Q=
+
+Name: com/fasterxml/jackson/core/util/package-info.class
+SHA-256-Digest: yFbSLFn6mA21cS3W/orqLEWZc0fhlnKjOAY0XuI7vqI=
+
+Name: aws_lic_mgt/user-error-16.png
+SHA-256-Digest: lQsAm8EPuceYJlTW6TSci3VhWwO84xP6niSAOeelBTo=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$6.class
+SHA-256-Digest: EpgFp9KjBc3KsHP6kaFVsUXKM/uI3R7XWwLoc56XHGQ=
+
+Name: com/sun/media/jai/codecimpl/JPEGCodec.class
+SHA-256-Digest: +RGEclHsGoVnbYSEzz7xqYrgQT+HlBrmDp+pyYlnVq8=
+
+Name: com/asprise/imaging/ui/image/editor/igc.class
+SHA-256-Digest: hh8hop2/2NFNgpX+mBPwF0ypbzpP0khrPWrZMOE0W5E=
+
+Name: com/asprise/imaging/core/scan/twain/TwainUtil.class
+SHA-256-Digest: AYbSZVU+/It3meYpdpBCjdKJhxt/Z505XuJ0zCroN1w=
+
+Name: net/java/balloontip/BalloonTip$5.class
+SHA-256-Digest: gVER2RWsUL7tb+aZbFhC66q92yPBPngPeQHKaj6U5n8=
+
+Name: com/asprise/imaging/scan/ui/util/ix.class
+SHA-256-Digest: bJZGEBE2YJUeT8gaTqHSquWDx9EQAZuRngSESTdn8Z4=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/im.class
+SHA-256-Digest: Fha9xKtRZ/y8rW0twr2C4xEnbctlkDUmYvYi891m654=
+
+Name: com/asprise/imaging/scan/ui/workbench/iyd.class
+SHA-256-Digest: AQH387kXHo8Fq+fMaG9XfJTatoAuAMkMT7qnbya07Yg=
+
+Name: com/sun/media/jai/codec/BMPEncodeParam.class
+SHA-256-Digest: kHhw529zPI4Bk3t8gYfVlz3X6jI6uVKjqJJN8e9/0qA=
+
+Name: com/asprise/imaging/scan/ui/workbench/ied.class
+SHA-256-Digest: rtdMe1pToJRDtlRs5iTylzMkTLa+21InLWa8cyCMLr4=
+
+Name: com/sun/media/jai/codec/JaiI18N.class
+SHA-256-Digest: flS/6iQ5nBDqklAb+GX/t0dbzxRQv5u879GxDHlzo0E=
+
+Name: com/sun/media/jai/codecimpl/NoMarkStream.class
+SHA-256-Digest: t8kF63+odqHlw2CIt/JZW0Byybv0Jj9BKbQxw/pZSwM=
+
+Name: editor/icons/Server16.gif
+SHA-256-Digest: PHZrtR4jqVguNWh69CH/i3PWMa6qEiafMgpnedX2C2A=
+
+Name: com/asprise/imaging/ui/image/editor/ikc.class
+SHA-256-Digest: LStzAkTsyF65eYZLqqLAGV7QqLwdG3P1tP8E+iPMl58=
+
+Name: com/asprise/imaging/scan/ui/web/ir.class
+SHA-256-Digest: VNR40QSSqa0QStetFz3/etBdAOecIzDKfxLOWz2pZ5g=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/FrameScanDemo.class
+SHA-256-Digest: yIqmTUMmnV1abQzrI5YiVx6CH5bS845YmEyJdeXT1o0=
+
+Name: com/asprise/imaging/core/RequestOutputItem.class
+SHA-256-Digest: Hb3CCXnLufe4UB8Es5/E582gIMgO8WEZXv62oALHXXs=
+
+Name: com/asprise/imaging/ih.class
+SHA-256-Digest: Gl56Y0z0E+UUd6AbcWbgX3fuRxkTTE0aK61B1Nrp0t4=
+
+Name: com/asprise/imaging/ie.class
+SHA-256-Digest: by4+6k5l5JWzQtD4eO6cvkTSPyejF7wc5IZqnw0x5pk=
+
+Name: com/asprise/imaging/scan/ui/workbench/ibe.class
+SHA-256-Digest: yoRqepbA/FCUfINxVvBYLk6OVCADpNTT6xOpg7B8F7g=
+
+Name: asprise/tick-16.png
+SHA-256-Digest: G6BsnlVoFjhTnH9iHtstJ6vd/3X+4wYE7fOwvIYp63w=
+
+Name: com/asprise/imaging/scan/ui/util/iz.class
+SHA-256-Digest: PzL8HN3TME7aO/EV3E+H/RoGnOaL3dzNs3uIGvlqOI8=
+
+Name: asprise/doc-new-32.png
+SHA-256-Digest: ivLhyrIo5bSkMBkJizg6XgRXYb48FcL8lIS/PjcgL6Y=
+
+Name: net/java/balloontip/styles/MinimalBalloonStyle.class
+SHA-256-Digest: gg7lx7H21ME+TxUVJjDb4nkJsLSVB4GsKrYzMmtK0PU=
+
+Name: com/asprise/imaging/scan/ui/workbench/itc.class
+SHA-256-Digest: +8A1QHCfGEZIGzpesukDqp1kaTCAoB5HdkozmNnqHFI=
+
+Name: com/asprise/imaging/ui/image/editor/id.class
+SHA-256-Digest: H4M6xBg1tY2A34tXjHSLUAIpJLf9WndR8cLbLP95pQ8=
+
+Name: com/asprise/imaging/scan/ia.class
+SHA-256-Digest: wDd+RelJNWUzFOKfj3Xl7tT9WjjB4SIuLzruY9cpO+8=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$8.class
+SHA-256-Digest: /v17kdOyeICdFLrNb6YMQ706YwdfmcRwkk9BtfgXFM4=
+
+Name: com/asprise/imaging/scan/ui/workbench/ieb.class
+SHA-256-Digest: BZ9AjZfZ1umltVx0rpKX/1bUPZLF0ciHFBtBOtToQ5k=
+
+Name: com/asprise/imaging/scan/ui/workbench/ioe.class
+SHA-256-Digest: oZ/TjH8rmD2fq9AQrY7Fcc5RkWz0VnCFn4Y90Lt3l2o=
+
+Name: com/asprise/imaging/scan/ui/util/il.class
+SHA-256-Digest: CGfV/SjcPCBoKwtiHxYb07vBa6hK2hmF+LjcOIgH4ek=
+
+Name: com/sun/media/jai/codec/PNGEncodeParam.class
+SHA-256-Digest: wA629fjK5ZhXVgoUcWKnnobNyDNwzniifePw/YG8uEw=
+
+Name: net/java/balloontip/styles/ModernBalloonStyle.class
+SHA-256-Digest: Ncp/P45ly30CaXxUFo6eNK7jjAiK4d5JvTfGepbzzc8=
+
+Name: com/asprise/imaging/scan/ui/workbench/ige.class
+SHA-256-Digest: 5Cqy+DWU8ddK8DASwYDwgJrn9CHnzYyay5XhhEKPvtY=
+
+Name: net/java/balloontip/TreeNodeBalloonTip$1.class
+SHA-256-Digest: vnDpTw4lFXoZvoVbgrOQLRL42j26ggOOPvM6jIo4enI=
+
+Name: asprise_editor_trans_zh.properties
+SHA-256-Digest: u0DgoxOGljmNXmee9cLEMtdykv59PwkDF/5HIItsmlc=
+
+Name: com/asprise/imaging/scan/ui/web/ip.class
+SHA-256-Digest: kThrHvPvQlkfUESPCEM1y9zorgxgQqyXbmfB2atF7Bs=
+
+Name: com/asprise/imaging/scan/ui/web/ic.class
+SHA-256-Digest: BhrTknr6LwkJJrArbrYr1iYlF65xMJ2uRVol4haUKOI=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$Put.class
+SHA-256-Digest: B0ye5epfRYfnr5EOGTzYHb51Z1yT61rXa+lWehfvViQ=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ik.class
+SHA-256-Digest: 5pCjUIEnJ/wZM1rUupLdWKEg/BpZ5tod4REEVJ1VHWU=
+
+Name: com/sun/media/jai/codecimpl/fpx/JaiI18N.class
+SHA-256-Digest: Tn09FlgHErj79yJHBWdUwV73zQNUcKpT5U65Yd9gTdA=
+
+Name: asprise_editor_trans_it.properties
+SHA-256-Digest: i5TtZMHEzRcAkMj5i+RYnT1Pzb/tTacND8islxFpdzc=
+
+Name: com/asprise/imaging/scan/ui/web/ixb.class
+SHA-256-Digest: mvecH2eFXVdxr9nBRbyxXiiQop9nXSnNhxuCd/xX9+g=
+
+Name: com/asprise/imaging/core/ImagingException.class
+SHA-256-Digest: 3soKTDKK7RrOEmr9gVE2Adoh70xyzzFKZMvDCvJv1xs=
+
+Name: com/asprise/imaging/ui/image/editor/ibc.class
+SHA-256-Digest: Nqd9dseb24DDUSGs/TBIElkyftKYoI7ej/PUpaXjHZs=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ih.class
+SHA-256-Digest: OzScM+JAcWI4w0XoPy6W5HQenFSuivwb70EZZkN5SAc=
+
+Name: net/java/balloontip/styles/TexturedBalloonStyle.class
+SHA-256-Digest: UwShCIkCXvdBIxxph4rQTqL2t9vWd5SP5QgSsNiRCn8=
+
+Name: ascan_trans_it.properties
+SHA-256-Digest: bmZwAlisXPrYkR0UmCZkSokh4i2u0GzuvLHPHXTgjy0=
+
+Name: net/java/balloontip/utils/TimingUtils.class
+SHA-256-Digest: SgX/R1iYqTUIFUxm8Re9pfQRo8Mqe5evOgMV6RzIjiw=
+
+Name: com/asprise/imaging/ui/image/editor/ib.class
+SHA-256-Digest: rERtxiT46R4iGX07GaQLgXVcu2RaQyfJQMrIQWNwVfg=
+
+Name: net/java/balloontip/BalloonTip$8.class
+SHA-256-Digest: s0Dc5XYZ6cSL3+fsyI2VTrfBMX12HWFiDyibpIQjDTM=
+
+Name: com/asprise/imaging/scan/ui/workbench/igc.class
+SHA-256-Digest: FHLJecQ3XHBatickWJrKjfOgmVyPNugSLrcTL40wVyE=
+
+Name: com/asprise/imaging/core/scan/twain/Source.class
+SHA-256-Digest: NFzr17MhV7JT+KzIgiqc4MeFhmLEttdT/rL/S995Ts4=
+
+Name: com/fasterxml/jackson/core/sym/Name2.class
+SHA-256-Digest: 7NNVHbON92yzGJnPi+clO++EWeFMN+uyZegYlkW54gw=
+
+Name: com/fasterxml/jackson/jr/type/ResolvedType.class
+SHA-256-Digest: hrdlSZ3aQedzT02XGlx9A0qHS7OIofKVrxlePmOwMNU=
+
+Name: com/asprise/imaging/scan/ui/workbench/ioc.class
+SHA-256-Digest: ZEz2JYLi6I01lzDjn/oKs4xDosfxb/NhLj+bKIyp/v0=
+
+Name: com/asprise/imaging/scan/ui/workbench/ibb.class
+SHA-256-Digest: C+frC1rXScHo1V712K6gJZ+0L7bCVM3tK9yxlrknya8=
+
+Name: aws_lic_mgt/web-ok-24.png
+SHA-256-Digest: 2i1o4gK+XVDq9rERO2ikY2ukhfU9lQDfl5K8UsZk3x0=
+
+Name: com/asprise/imaging/scan/ui/web/isb.class
+SHA-256-Digest: 7aUxXDsFdvtAmNjp3VlTuWypKsY784ypNl92zE1Hxvg=
+
+Name: asprise/scanner/64.png
+SHA-256-Digest: vDWJa43cbEUDAgyarNYMVRnAv4eriJ1gkMmM3z41X5Q=
+
+Name: com/asprise/imaging/scan/ui/util/in.class
+SHA-256-Digest: NpcdBCzkEgylqdSW35xRJlkhplVpBK7fHmmi3c5gC/o=
+
+Name: com/asprise/imaging/scan/ui/workbench/ijb.class
+SHA-256-Digest: K7lNWiGP/E0TByeY5YGDA1rQxPWKESvbEqRxUtuOlrA=
+
+Name: com/fasterxml/jackson/jr/ob/impl/BeanDefinition$1.class
+SHA-256-Digest: DPQLWtikEkKR+7i8m4TRD06Rvb1PP7QIlA5rWrl18Uc=
+
+Name: com/fasterxml/jackson/jr/ob/JSONObjectException$Reference.class
+SHA-256-Digest: yekOzwUPy6Qfw8uBzvv5hWKNYmuZwQd+bEhbABNKvmw=
+
+Name: com/sun/media/jai/codecimpl/PNMImageEncoder.class
+SHA-256-Digest: FTKP/4l9J5GMm+vI5WFyZXgV71Kl0WQDB5dtjulAE/U=
+
+Name: com/asprise/imaging/core/util/TranslationProps$Lang.class
+SHA-256-Digest: K17ylkcAG3qIQnGDiiwzpe/UxKykJcL3cdDswTAGAjY=
+
+Name: com/asprise/imaging/scan/ic.class
+SHA-256-Digest: 3tu2W8Nyf4OyLGDDFlNoL0QKnzeOiLPrI9E5G19bGrs=
+
+Name: com/sun/media/jai/codec/ImageEncoderImpl.class
+SHA-256-Digest: sEkjFQ7WHA5NGefvWFmCdlnKiU9Is/0S33nfNN0k4Ak=
+
+Name: com/fasterxml/jackson/core/util/DefaultPrettyPrinter.class
+SHA-256-Digest: qPy6Nuq1q1U1Wj5Vl1UeW9tz95JXnXtK0Nl1eWH4Zzs=
+
+Name: com/asprise/imaging/scan/ui/workbench/ild.class
+SHA-256-Digest: BCsGWiU4dQIua03V2TOlDLDXiFwFTA/Opl1b1eUMO9s=
+
+Name: com/sun/media/jai/codecimpl/GIFImage.class
+SHA-256-Digest: W05BJyh9fz3yrIwgv6/g40RKdvUJE5xXLJf9VKCzX5M=
+
+Name: com/asprise/imaging/scan/ui/workbench/ijd.class
+SHA-256-Digest: 41saf/w/gLAPprbYlSVxq/FaDibvj9L+u9FNJgSRsbk=
+
+Name: com/asprise/imaging/scan/ui/web/ilc.class
+SHA-256-Digest: qhUP1eAlVeoGZMiRAFzGkU8cEJ5+MlcS015W950K5xU=
+
+Name: com/asprise/imaging/scan/ie.class
+SHA-256-Digest: 63FRBj4gRYN8zsEVUZ6wqz1hGVi3LQJkINFGpuwLHHU=
+
+Name: com/asprise/imaging/scan/ui/util/ip.class
+SHA-256-Digest: yC/FZUEDUGuj+PzV8ad83lRMlftekB+dnl8B0EKTcIg=
+
+Name: asprise/garbage-64.png
+SHA-256-Digest: hykBR4RXxxwNpfZM5f794bhO1oX6Kd4TVhBNXqTDwis=
+
+Name: com/asprise/imaging/scan/ui/web/id.class
+SHA-256-Digest: 7wtTKQB7l82yc2a38UCr9iiUVqVCmuyMIiNGN02jw5w=
+
+Name: com/asprise/imaging/scan/ui/web/ivc.class
+SHA-256-Digest: iB+2lTjM7FAFouZH4kFj2MK6MGoZjFNtUryG+A2vqIo=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/id.class
+SHA-256-Digest: u3UWhhjOkiyFj26uMB/eIc1iY57xMCz91upxVQzl/VQ=
+
+Name: com/asprise/imaging/ui/image/editor/idb.class
+SHA-256-Digest: /eV5tPftAHCDEgwUcTnzCJRnedzNKLrBFnJyCJJAe3s=
+
+Name: asprise_editor_trans_es.properties
+SHA-256-Digest: kbl/RdFm6Kojk9BUol7y0G45/KD+ZoKduoi3ah2PzZk=
+
+Name: editor/icons/Back16.gif
+SHA-256-Digest: Somm1JSMGUjMiDl77bC6YrRNJh7Cl5SzKnKMHPzeZI0=
+
+Name: com/asprise/imaging/ui/image/editor/inb.class
+SHA-256-Digest: jME0+2bFXH0mh//3GOnkXHkA+kn0VFdn75AR9H/4KXM=
+
+Name: com/fasterxml/jackson/core/package-info.class
+SHA-256-Digest: xWW5qU/IJ5gjPO1aZo3cTq0GYpoiMKvxeaIPFbDDLVo=
+
+Name: com/sun/media/jai/codecimpl/PNGChunk.class
+SHA-256-Digest: Ujauai/MDOL26aZBOBooPpa/PDkuaG1g62Qo/lBvreY=
+
+Name: com/fasterxml/jackson/core/JsonParseException.class
+SHA-256-Digest: El2JStByaEVd3Mt4/gGObJNsaiRH2rKNRkZZD5XCdrM=
+
+Name: com/asprise/imaging/scan/ui/util/iv.class
+SHA-256-Digest: V8JumO5MjTKWD+k3QFW9taPeZGyWgrUiKuwVjTv+wCM=
+
+Name: com/sun/media/jai/codec/PNGSuggestedPaletteEntry.class
+SHA-256-Digest: VpE39HyPURPXQGaPoNAb8D8tJV3OVKXJDcS//QB5jwA=
+
+Name: net/java/balloontip/BalloonTip$7.class
+SHA-256-Digest: SAfq4nnThWnBoTzEfXEZ3XwkfLihMEG3QdIjyg9WP40=
+
+Name: com/asprise/imaging/scan/ui/workbench/ivd.class
+SHA-256-Digest: 445xlkGceH2FW1J0JDyAUisr6/YRTjIzlIMudJelnDE=
+
+Name: com/fasterxml/jackson/core/ObjectCodec.class
+SHA-256-Digest: VmiEQRi7fWKAYt1wIZQjna4CndUrx+rh5xz92F5jsR8=
+
+Name: com/asprise/imaging/il.class
+SHA-256-Digest: qOo31t1AiMn74quNSyMrUaOLXnFlY2RZFWIwPpx9whw=
+
+Name: com/sun/media/jai/codecimpl/util/WritableRasterJAI.class
+SHA-256-Digest: 9RhFoXldv/5wo//4piWXOk4bkHpKvcuV7mupunenMbU=
+
+Name: com/sun/media/jai/codecimpl/JPEGImageDecoder.class
+SHA-256-Digest: tQEuZXgxkH8FV3OWt9w2m/WYXrEX3CYipLU0SJd8HR8=
+
+Name: asprise/demo/bw/no-20.png
+SHA-256-Digest: 1rdtLe4/W6kgGURD+6RtMO8ReQRgj2Xh3D3pIw4M3mo=
+
+Name: com/asprise/imaging/scan/ui/web/ij.class
+SHA-256-Digest: OVbgGQAIg/O5AQhILPlivJctUpuqn3QYB9mtMmruP+0=
+
+Name: com/sun/media/jai/codecimpl/BMPImageDecoder.class
+SHA-256-Digest: KaDIVuPLPpS9bNtJYeNe6IweUaMOsCwxmPsc/Bu0cYw=
+
+Name: com/asprise/imaging/core/scan/twain/CapOptions$CapOptionsComboBo
+ xModel.class
+SHA-256-Digest: O+bCQGxuU72BfdlUEYggwteMPotIc+cOqGD7QX7OhpA=
+
+Name: com/sun/media/jai/codecimpl/fpx/StructuredStorage.class
+SHA-256-Digest: gJ7Dv7FNJBm1yELn8Nuo4+1HuR8kSE0EtrAVqRSDJUc=
+
+Name: asprise_imaging_x64.dll
+SHA-256-Digest: VoOIHg/F/25/BdTPD9XvDU3r65tZuDfl7uR15krPsH4=
+
+Name: com/fasterxml/jackson/jr/ob/comp/SequenceComposer.class
+SHA-256-Digest: sRe+YLiS6NiS9kU++Yh5gWQ8ZbHUMsoejXZ19sqADr4=
+
+Name: asprise_editor_trans_fr.properties
+SHA-256-Digest: 98XJxMfO2TQ1A+pQilRX2csQoW7TCQ2SgWUYO16Eccg=
+
+Name: com/asprise/imaging/scan/ui/web/ibb.class
+SHA-256-Digest: +15b13t3UAnlSgjnaqAGY+t7xKivZ9AiVdne1GuNrFM=
+
+Name: com/sun/media/jai/codecimpl/util/ImagingException.class
+SHA-256-Digest: /QnlVBjBY4zPt131TQw+FsfOQ2yHoL0lhMiRF+i0IPk=
+
+Name: editor/icons/Print16.gif
+SHA-256-Digest: YH9zX80MLWsG4CtaGh9o3fCShZ183af2r4+bBI2GSk4=
+
+Name: editor/icons/Scan22.png
+SHA-256-Digest: ZREuee+XnA59bydEvjlTDF46c8/4UuVujRwVnPe9eBg=
+
+Name: com/asprise/imaging/scan/ui/workbench/ive.class
+SHA-256-Digest: tN3rGWSq08xrtRPUDt5j9esBZlEyAYoLJ79rzyfZrtU=
+
+Name: com/fasterxml/jackson/core/format/MatchStrength.class
+SHA-256-Digest: VOwMtwIhDCFJFQCc57oADa6vjMKwzQM3DU8KPltUI6s=
+
+Name: com/sun/media/jai/codecimpl/fpx/SSDirectoryEntry.class
+SHA-256-Digest: hKJ/95SCTjVRr6kxXS4k6uqgIVX2grnTXR+/1oAXjZw=
+
+Name: com/fasterxml/jackson/core/JsonGenerationException.class
+SHA-256-Digest: hMwEMzG4zBAlmu0LXKmLO5VBbI6erSdo3ZjE/eO+ssk=
+
+Name: com/fasterxml/jackson/jr/ob/impl/JSONReader.class
+SHA-256-Digest: UgvXJlzady5zRYDEHtN0pxxLmU2UxZF53uxNHdPUy2o=
+
+Name: com/asprise/imaging/scan/ui/workbench/ilc.class
+SHA-256-Digest: 8eMLlQJCPINWh5oTx8Xh7JlxkOQfhUX04p/QtxlSVYU=
+
+Name: com/sun/media/jai/codecimpl/WBMPImageEncoder.class
+SHA-256-Digest: zksIghG0knPcTTPlH4bEfzZ6ELNKhT14ZGOg7RI7wkQ=
+
+Name: com/asprise/imaging/scan/ui/util/iq.class
+SHA-256-Digest: XvVYgSrA+PJ4oQnlItItj6TOBvb6t1/Gvz+tx2foky4=
+
+Name: com/asprise/imaging/scan/ui/workbench/ije.class
+SHA-256-Digest: jwXtc/Lwzx4tHHmMZIjRXRoEq5qWYd9b0ReoH4RHU6w=
+
+Name: aws_lic_mgt/web-error-24.png
+SHA-256-Digest: 1hMm15LmVx+JMibvVqXm4Kc5R18EUiL6CwL46ZY4P0s=
+
+Name: com/sun/media/jai/codecimpl/util/JaiI18N.class
+SHA-256-Digest: LGPUMVqI28O/78GjsFNPxm1nJViZybbmlSOwTbOdpwA=
+
+Name: com/fasterxml/jackson/core/json/ByteSourceJsonBootstrapper.class
+SHA-256-Digest: +KtDhSoTbolDSQHMYz+jtlLR3LLCTR0Aktb5SjBb+Ks=
+
+Name: com/asprise/imaging/scan/ui/web/ibc.class
+SHA-256-Digest: cQIlDkWijOfNtyVOUCxL2X3wXIQ0BLHa7Ap6HySQ0Fc=
+
+Name: com/asprise/imaging/ui/image/editor/izb.class
+SHA-256-Digest: J8nBch/JbplNYFoev3KXC0Tm2W10JnnNvDSnQ7qoSLc=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferences$4$1.class
+SHA-256-Digest: dZ5BwUqfzep1fXSCoHDiddj/svS2vndmrE+vcpQ47Aw=
+
+Name: com/sun/media/jai/codec/com.sun.media.jai.codecimpl.util.propert
+ ies
+SHA-256-Digest: 7CnNMC1GX38CZKAa6HYJF29NdQtJs2Ws3MeXkfcslIc=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ibb.class
+SHA-256-Digest: PF3CMSJsWEg+/ttTU36l2dcheL1CxK3GxpPKtr2LOXc=
+
+Name: com/fasterxml/jackson/jr/ob/JSONComposer.class
+SHA-256-Digest: o0DDnpqPTIDcJpK9+PAgr0LetrHZBZab/G6bnlACzJE=
+
+Name: com/asprise/imaging/core/Imaging.class
+SHA-256-Digest: lZhIbBxw4H6YpSgj72OxJI6VIl/NcUfHOPMtnQuTTbg=
+
+Name: asprise/inline-16.png
+SHA-256-Digest: 8iWnIiMOMxEtkjLO7OhEwCwMKahqgzBKz4JdC6fGb6I=
+
+Name: com/fasterxml/jackson/core/Version.class
+SHA-256-Digest: UELq954rEmcuaT2vdEl6dqZ35icrUmYpcZRe2MdKg0U=
+
+Name: com/asprise/imaging/scan/ui/web/ie.class
+SHA-256-Digest: smRiN9GXrWz+WTKyfSdgzpH5D8la04HjhgIHJtVGLbI=
+
+Name: editor/icons/Scale16.gif
+SHA-256-Digest: 8ov3h7wznlLfTxv8WQHi2UwhXjUWOQczqm6Ig1xbSrE=
+
+Name: com/asprise/imaging/scan/ui/util/iw.class
+SHA-256-Digest: LJdBp8gRvaLAKhaSumMWlbfy6DujkWhsRCBE9PaaSwU=
+
+Name: com/asprise/imaging/scan/ui/util/ikb.class
+SHA-256-Digest: hLmJC8N/gAE/tD14OTm+qpl3j876KZyf8m/lxgR3Iu8=
+
+Name: com/asprise/imaging/scan/ui/web/ih.class
+SHA-256-Digest: 2Er80PAsgJU6yKzcEPsnoaOF0AC7iC6Zi+yt1GUvmGA=
+
+Name: asprise/attach-20.png
+SHA-256-Digest: 92xrEkMkY5HPN9YiChxh6RTpIvOLoC4C5zDU/7N2Qpw=
+
+Name: net/java/balloontip/ListItemBalloonTip$1.class
+SHA-256-Digest: eIpOB9AA+1i62Gvakat1fP++XI3QNzmu4yv3TCnUVEs=
+
+Name: com/asprise/imaging/scan/ui/web/ik.class
+SHA-256-Digest: LjN+nHdtylhoJJVOkjLj0t1AClh7wxj2NOOG+2OJ7XA=
+
+Name: com/fasterxml/jackson/jr/ob/impl/CollectionBuilder.class
+SHA-256-Digest: LvzG0UM27ii+g1rdWL9tA9cZP+hty3S3Qsf/yFGB0HI=
+
+Name: net/java/balloontip/BalloonTip$3.class
+SHA-256-Digest: JZdjw6t7o9971BrzeqnzfEWJC50bK9pWsY9RlMDmyaI=
+
+Name: com/asprise/imaging/scan/ui/util/ifb.class
+SHA-256-Digest: re5xCIQSuX5qAedtBC+tiS6vTKK7cRAiTqczzFZHOcI=
+
+Name: com/asprise/imaging/scan/ui/workbench/ivc.class
+SHA-256-Digest: ACdMJCdVg0vv9ls2E0JZvXFhowU9Sbz1qN4JFFJW2jg=
+
+Name: com/asprise/imaging/scan/ui/util/it.class
+SHA-256-Digest: 7fGIY2eLnbLoMF14JMnNbIDwD1XSSWtcPPiAwFfeoJM=
+
+Name: com/asprise/imaging/scan/ui/util/iab.class
+SHA-256-Digest: Qgv6/w5mhmMGx5C7Fr/BTNuNFIlRH1fiQBo2Qngacpo=
+
+Name: com/asprise/imaging/ik.class
+SHA-256-Digest: 88W/4Cl5TAXRcA1A+/RjdIG9mn3RMvqq7ft2kwFGjQ4=
+
+Name: com/asprise/imaging/scan/ui/workbench/iqc.class
+SHA-256-Digest: WHUgQDuTPsRutLvpPsZZHznqF5VDzZxPIVVJIdPhalk=
+
+Name: ascan_trans_es.properties
+SHA-256-Digest: d4DbWMJFkFaVIIuBXrwVlrOA2X+3H3ayCz0PFr7bpd8=
+
+Name: com/fasterxml/jackson/core/util/DefaultPrettyPrinter$NopIndenter
+ .class
+SHA-256-Digest: GF7X4lNRaNYmU+hNBitf5XYc9HMMSL0T3gwI1btrTYk=
+
+Name: com/fasterxml/jackson/core/JsonEncoding.class
+SHA-256-Digest: 7adeCByFlskyXW8njKHKl9hWlNDSQ5elIsixwiF37c8=
+
+Name: com/fasterxml/jackson/core/json/package-info.class
+SHA-256-Digest: 9uI9onIx6XklAhFUHfmXjw6MdeZTlkxMp5SQXe3YwN4=
+
+Name: com/sun/media/jai/codecimpl/FPXCodec.class
+SHA-256-Digest: qd50ofswCp0/0ZXtAjrRpYKPGT2x27W9qHx+zisoIlM=
+
+Name: com/asprise/imaging/scan/ui/workbench/iee.class
+SHA-256-Digest: tzL+piGEIQadQj628MIbo2XnO3ijY4eY21eeTJblwkk=
+
+Name: net/java/balloontip/styles/RoundedBalloonStyle.class
+SHA-256-Digest: WWCI0Yc0qFJ2DkWPutNKdzO7trvKLcdLONT05WyQuQE=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ie.class
+SHA-256-Digest: NwzU/cu9TjNTIsdSa30Q8SG4UuM8Gifew5VUnEXdJKQ=
+
+Name: com/asprise/imaging/scan/ui/web/ilb.class
+SHA-256-Digest: T4ZTOs+Pta6yxqBcACSAon4+gdjWb0OmBO/NAdUwvkA=
+
+Name: com/sun/media/jai/codecimpl/ImagingListenerProxy.class
+SHA-256-Digest: KtNynaYrRpqht4s+PuPBCAeO2MmfFj2p3oU0nBQFuFI=
+
+Name: com/asprise/imaging/ui/image/editor/idc.class
+SHA-256-Digest: 82o89YtoScp92gy+J/LByeLPfDc6oV38uw07sL3nwpc=
+
+Name: com/sun/media/jai/codecimpl/util/RasterFactory.class
+SHA-256-Digest: Dxy8ThcwUleFTjW/0ju72sm0qUNjjNE2QC+uzTI7Xk0=
+
+Name: com/asprise/imaging/core/prefs/XmlSupport.class
+SHA-256-Digest: 4rY0+38SmXcuFEouXPSV0d/jrzsDYpckworan3tkZWI=
+
+Name: com/asprise/imaging/scan/ui/workbench/iqb.class
+SHA-256-Digest: o24EPoDy7F3V9o/KW8nYxqbOk/LhAl4fwwFDSbrD+34=
+
+Name: com/asprise/imaging/core/scan/twain/Source$Capability.class
+SHA-256-Digest: ItTwuWktU+mc7cgCHsY+Xckybs3BuiZA7g6Dnl55liY=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ib.class
+SHA-256-Digest: St9y/xQ7N9U/albGrusZF9/FRh05UUrvpRLf8n4mjxc=
+
+Name: com/asprise/imaging/core/prefs/FileSystemPreferencesFactory.clas
+ s
+SHA-256-Digest: OEuJjIW2XNWnewZkD1HEgOkYQiLa/as2KXWtPx5k1yA=
+
+Name: com/fasterxml/jackson/core/util/BufferRecycler.class
+SHA-256-Digest: Q2ttzM1PV0ZIxYhm/1UV+MfHtUGnFs2p4Tq9gYjtwA8=
+
+Name: com/asprise/imaging/im.class
+SHA-256-Digest: zOt+w4pTHcK805yOQP097ogZ+3IGn7q5wQ6D/ustmX4=
+
+Name: com/asprise/imaging/scan/ui/util/iu.class
+SHA-256-Digest: /AJsGLjsgdYykKpN4oMzt6rSsLc2cQwaWbXIg3HaOTk=
+
+Name: com/sun/media/jai/codecimpl/PNGImageDecoder.class
+SHA-256-Digest: 2sjnk1y07fq6NyhWPSHM+LiBlQqdbiVsphdGwSoncKw=
+
+Name: editor/icons/Save16.png
+SHA-256-Digest: 6Y7pLuJv5mlqFT7Qc/QpBK150YPkZ+VHEwBwHjGcXcE=
+
+Name: editor/icons/FitWindow16.png
+SHA-256-Digest: hWJtNZyJykvkZ0yASoBaEejlBsYrXftcSAJiYzavmSQ=
+
+Name: net/java/balloontip/BalloonTip$1.class
+SHA-256-Digest: K2ICjJ7e2lrb53qatfqyUz5h37/YGdxcp9dbw+yRonI=
+
+Name: com/sun/media/jai/codec/ImageCodec.class
+SHA-256-Digest: MMHscdyKYPK41gpTH0EsISr0qctgZP3Pux2/+loM+mw=
+
+Name: com/fasterxml/jackson/jr/type/ClassStack.class
+SHA-256-Digest: 9YGw4lMnRr8gidOWbiKZmNeqmwDtgsbZz++rU506W14=
+
+Name: com/asprise/imaging/scan/ui/web/ii.class
+SHA-256-Digest: ibPYRgIIClSii+5Lf6fzblw7aPHm5oGAXUWsYkRAf8U=
+
+Name: com/asprise/imaging/core/Imaging$1.class
+SHA-256-Digest: zQlJ0kLoWgjz6ZArSIizLApi6Kkl4ztdWouPY4Su9/M=
+
+Name: com/fasterxml/jackson/jr/ob/impl/SimpleValueReader.class
+SHA-256-Digest: uem8z0zUulYFQE7MRL1ieMDNiT94HMWYEmfppMjvAB0=
+
+Name: asprise/demo/bw/upload-20.png
+SHA-256-Digest: s0/S/DI7IW/uCaXLLspR0djBFVaBVGx6swkxNDkUVuc=
+
+Name: com/asprise/imaging/in.class
+SHA-256-Digest: ujG9f7lpOOqTmVR00Vq5Wf9BgLKW9fgYcBWJ6mMaR+k=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ilb.class
+SHA-256-Digest: ABdC43dBjZuuPVxkBncTu/eL0Jj0OETvA6ze4EpSUM8=
+
+Name: com/fasterxml/jackson/core/json/PackageVersion.class
+SHA-256-Digest: CJQAe6SPNwNTnqGAThaxemie4HJZVOOwLaCiFxKH0vE=
+
+Name: net/java/balloontip/BalloonTip$2.class
+SHA-256-Digest: BDWNjcUgdnAPFCB828MLYKoNslj9fmjq5F/EivsKnPM=
+
+Name: net/java/balloontip/utils/ToolTipUtils$ToolTipController.class
+SHA-256-Digest: 8IQzY/Pizi5+BkW33WJjYxkR+QMfTyEW14ZC+JGowQ0=
+
+Name: com/asprise/imaging/scan/ui/workbench/demo/ic.class
+SHA-256-Digest: bvLaubrF/GK9Lck8Kl9HtF+lO0fXBPi/QJxnwYc8hFI=
+
+Name: com/asprise/imaging/scan/ui/web/igb.class
+SHA-256-Digest: P1v/x94bSqscBqosvPN4B1Zu+hygSmkyZ2uoejshoqY=
+
+Name: com/asprise/imaging/scan/ui/workbench/ivb.class
+SHA-256-Digest: nJ6MfEiUsZMfwYAR6aa+2zdEcED3iI9TyH/0JkfzxeI=
+
+Name: com/asprise/imaging/ui/image/editor/iic.class
+SHA-256-Digest: H+0pgWz4tjjHBBMvc7Y4NwOy7pPzsDBctInLXgOMK3w=
+
+Name: net/java/balloontip/ListItemBalloonTip.class
+SHA-256-Digest: KJZRw8dwefc5Q6wOQ+g40GGFmdAXMOqZ5UPGxfPOFSA=
+

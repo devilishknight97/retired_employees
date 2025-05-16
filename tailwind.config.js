@@ -1,5 +1,6 @@
 import defaultTheme from 'tailwindcss/defaultTheme';
 
+import LT from './resources/fonts/29lt';
 /** @type {import('tailwindcss').Config} */
 export default {
     content: [
@@ -11,10 +12,10 @@ export default {
     ],
     theme: {
         extend: {
-            fontFamily: {
-                sans: ['Figtree', ...defaultTheme.fontFamily.sans],
-            },
+          fontFamily: {
+            sans: ['LT', 'ui-sans-serif', 'system-ui'],
+          },
         },
-    },
+      },
     plugins: [],
 };

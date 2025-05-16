@@ -1,12 +1,12 @@
 <!-- resources/js/pages/LandingPage.vue -->
 <template>
   <div class="container mx-auto p-8 text-center">
-    <h1 class="text-4xl font-bold mb-8">Employee Management</h1>
+    <h1 class="text-4xl font-bold mb-8">الصفحة الرئيسية</h1>
     <button @click="$router.push('/app/employees')" class="btn-primary mr-4">
-      Employee List
+      قائمة الموظفين
     </button>
     <button @click="$router.push('/app/add-employee')" class="btn-secondary">
-      Add Employee
+      إضافة موظف
     </button>
   </div>
 </template>
